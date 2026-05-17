@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_std,f1_macro_mean,f1_macro_std
+Logistic Regression,0.426,0.143,0.415,0.137
+Random Forest,0.375,0.158,0.364,0.17
+Baseline - Most Frequent,0.366,0.021,0.179,0.007

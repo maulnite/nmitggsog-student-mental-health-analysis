@@ -1,0 +1,19 @@
+model,base_feature,importance_type,importance_norm
+LogReg Leakage,course,absolute_coefficient,0.3585008496614138
+LogReg Leakage,anxiety,absolute_coefficient,0.16196353221561038
+LogReg Leakage,panic_attack,absolute_coefficient,0.15982573754600296
+LogReg Leakage,depression,absolute_coefficient,0.15588424582483512
+LogReg Leakage,year_of_study,absolute_coefficient,0.052322460570738714
+LogReg Leakage,cgpa,absolute_coefficient,0.050653902276295265
+LogReg Leakage,marital_status,absolute_coefficient,0.03779943872440214
+LogReg Leakage,gender,absolute_coefficient,0.01521224385990396
+LogReg Leakage,age,absolute_coefficient,0.007837589320797674
+RF Leakage,depression,tree_feature_importance,0.28554813386327016
+RF Leakage,anxiety,tree_feature_importance,0.25269992771760963
+RF Leakage,panic_attack,tree_feature_importance,0.2471226632829734
+RF Leakage,year_of_study,tree_feature_importance,0.06647292259819224
+RF Leakage,marital_status,tree_feature_importance,0.04080448290144245
+RF Leakage,age,tree_feature_importance,0.033776710940350105
+RF Leakage,cgpa,tree_feature_importance,0.03372513705363368
+RF Leakage,gender,tree_feature_importance,0.02209561178177965
+RF Leakage,course,tree_feature_importance,0.017754409860748718

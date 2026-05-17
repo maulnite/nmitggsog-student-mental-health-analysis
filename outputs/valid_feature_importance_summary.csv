@@ -1,0 +1,91 @@
+experiment,model,base_feature,importance_type,importance_norm
+Binary At Risk,Decision Tree Balanced,marital_status,tree_feature_importance,0.531308676998572
+Binary At Risk,Decision Tree Balanced,course,tree_feature_importance,0.2892795228076245
+Binary At Risk,Decision Tree Balanced,year_of_study,tree_feature_importance,0.1708477275029104
+Binary At Risk,Decision Tree Balanced,age,tree_feature_importance,0.00856407269089311
+Binary At Risk,Decision Tree Balanced,cgpa,tree_feature_importance,0.0
+Binary At Risk,Decision Tree Balanced,gender,tree_feature_importance,0.0
+Binary At Risk,Extra Trees Balanced,marital_status,tree_feature_importance,0.5058521616480781
+Binary At Risk,Extra Trees Balanced,year_of_study,tree_feature_importance,0.18750972115245956
+Binary At Risk,Extra Trees Balanced,course,tree_feature_importance,0.18602294244349726
+Binary At Risk,Extra Trees Balanced,cgpa,tree_feature_importance,0.06355926078519387
+Binary At Risk,Extra Trees Balanced,age,tree_feature_importance,0.04383827734449016
+Binary At Risk,Extra Trees Balanced,gender,tree_feature_importance,0.013217636626281039
+Binary At Risk,Gradient Boosting,course,tree_feature_importance,0.5818362612768636
+Binary At Risk,Gradient Boosting,marital_status,tree_feature_importance,0.17302989122254392
+Binary At Risk,Gradient Boosting,year_of_study,tree_feature_importance,0.13948069305982044
+Binary At Risk,Gradient Boosting,cgpa,tree_feature_importance,0.05542551108932216
+Binary At Risk,Gradient Boosting,age,tree_feature_importance,0.04352416452736924
+Binary At Risk,Gradient Boosting,gender,tree_feature_importance,0.006703478824080833
+Binary At Risk,Logistic Regression,course,absolute_coefficient,0.7242423943866837
+Binary At Risk,Logistic Regression,marital_status,absolute_coefficient,0.10477656556231402
+Binary At Risk,Logistic Regression,year_of_study,absolute_coefficient,0.09334206727384357
+Binary At Risk,Logistic Regression,cgpa,absolute_coefficient,0.06731955566746878
+Binary At Risk,Logistic Regression,age,absolute_coefficient,0.006740653031410995
+Binary At Risk,Logistic Regression,gender,absolute_coefficient,0.0035787640782790463
+Binary At Risk,Logistic Regression Balanced,course,absolute_coefficient,0.7196005426064161
+Binary At Risk,Logistic Regression Balanced,marital_status,absolute_coefficient,0.10849432658727948
+Binary At Risk,Logistic Regression Balanced,year_of_study,absolute_coefficient,0.09234328019834882
+Binary At Risk,Logistic Regression Balanced,cgpa,absolute_coefficient,0.06952981558475063
+Binary At Risk,Logistic Regression Balanced,age,absolute_coefficient,0.006744798462884533
+Binary At Risk,Logistic Regression Balanced,gender,absolute_coefficient,0.0032872365603202613
+Binary At Risk,Random Forest Balanced,marital_status,tree_feature_importance,0.37999506451096077
+Binary At Risk,Random Forest Balanced,year_of_study,tree_feature_importance,0.24009108508374702
+Binary At Risk,Random Forest Balanced,course,tree_feature_importance,0.22268511684966352
+Binary At Risk,Random Forest Balanced,age,tree_feature_importance,0.06374707576702077
+Binary At Risk,Random Forest Balanced,cgpa,tree_feature_importance,0.04958026640147261
+Binary At Risk,Random Forest Balanced,gender,tree_feature_importance,0.04390139138713536
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course,absolute_coefficient,0.7018201366342798
+Binary At Risk with Oversampling,LogReg Balanced + ROS,year_of_study,absolute_coefficient,0.10478305407294002
+Binary At Risk with Oversampling,LogReg Balanced + ROS,marital_status,absolute_coefficient,0.09789215756741593
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa,absolute_coefficient,0.08641708277758291
+Binary At Risk with Oversampling,LogReg Balanced + ROS,age,absolute_coefficient,0.007007766238127377
+Binary At Risk with Oversampling,LogReg Balanced + ROS,gender,absolute_coefficient,0.0020798027096539324
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course,absolute_coefficient,0.7290886944878683
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,marital_status,absolute_coefficient,0.09845308591352986
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,year_of_study,absolute_coefficient,0.09398628887292827
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa,absolute_coefficient,0.06122604044782712
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,gender,absolute_coefficient,0.009226383140916016
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,age,absolute_coefficient,0.008019507136930355
+Binary At Risk with Oversampling,RF + ROS,marital_status,tree_feature_importance,0.33391724992782323
+Binary At Risk with Oversampling,RF + ROS,course,tree_feature_importance,0.2744597764490625
+Binary At Risk with Oversampling,RF + ROS,year_of_study,tree_feature_importance,0.25102182880414015
+Binary At Risk with Oversampling,RF + ROS,cgpa,tree_feature_importance,0.07821459944338949
+Binary At Risk with Oversampling,RF + ROS,age,tree_feature_importance,0.04133228479799008
+Binary At Risk with Oversampling,RF + ROS,gender,tree_feature_importance,0.021054260577594575
+Multiclass Risk Level,Decision Tree Balanced,marital_status,tree_feature_importance,0.473258135334352
+Multiclass Risk Level,Decision Tree Balanced,year_of_study,tree_feature_importance,0.3085339940067465
+Multiclass Risk Level,Decision Tree Balanced,course,tree_feature_importance,0.14547823569672463
+Multiclass Risk Level,Decision Tree Balanced,age,tree_feature_importance,0.05021755577305452
+Multiclass Risk Level,Decision Tree Balanced,cgpa,tree_feature_importance,0.02251207918912238
+Multiclass Risk Level,Decision Tree Balanced,gender,tree_feature_importance,0.0
+Multiclass Risk Level,Extra Trees Balanced,marital_status,tree_feature_importance,0.46461364171461966
+Multiclass Risk Level,Extra Trees Balanced,course,tree_feature_importance,0.18770489557437992
+Multiclass Risk Level,Extra Trees Balanced,year_of_study,tree_feature_importance,0.1736967777446634
+Multiclass Risk Level,Extra Trees Balanced,cgpa,tree_feature_importance,0.11376484754960108
+Multiclass Risk Level,Extra Trees Balanced,age,tree_feature_importance,0.04993382833544428
+Multiclass Risk Level,Extra Trees Balanced,gender,tree_feature_importance,0.010286009081291623
+Multiclass Risk Level,Gradient Boosting,course,tree_feature_importance,0.5865875777037907
+Multiclass Risk Level,Gradient Boosting,marital_status,tree_feature_importance,0.18811503570416063
+Multiclass Risk Level,Gradient Boosting,year_of_study,tree_feature_importance,0.11258101923394291
+Multiclass Risk Level,Gradient Boosting,cgpa,tree_feature_importance,0.058594960557932285
+Multiclass Risk Level,Gradient Boosting,age,tree_feature_importance,0.04876741321949811
+Multiclass Risk Level,Gradient Boosting,gender,tree_feature_importance,0.0053539935806752315
+Multiclass Risk Level,Logistic Regression,course,absolute_coefficient,0.7281716048972516
+Multiclass Risk Level,Logistic Regression,cgpa,absolute_coefficient,0.08640485727583855
+Multiclass Risk Level,Logistic Regression,year_of_study,absolute_coefficient,0.08347595119132539
+Multiclass Risk Level,Logistic Regression,marital_status,absolute_coefficient,0.08087713937125571
+Multiclass Risk Level,Logistic Regression,gender,absolute_coefficient,0.010874663037837006
+Multiclass Risk Level,Logistic Regression,age,absolute_coefficient,0.010195784226491863
+Multiclass Risk Level,Logistic Regression Balanced,course,absolute_coefficient,0.726715555648016
+Multiclass Risk Level,Logistic Regression Balanced,cgpa,absolute_coefficient,0.08661249805876584
+Multiclass Risk Level,Logistic Regression Balanced,year_of_study,absolute_coefficient,0.08445012021347799
+Multiclass Risk Level,Logistic Regression Balanced,marital_status,absolute_coefficient,0.08116812477955311
+Multiclass Risk Level,Logistic Regression Balanced,gender,absolute_coefficient,0.010651804906160333
+Multiclass Risk Level,Logistic Regression Balanced,age,absolute_coefficient,0.010401896394026638
+Multiclass Risk Level,Random Forest Balanced,marital_status,tree_feature_importance,0.3647546599459874
+Multiclass Risk Level,Random Forest Balanced,course,tree_feature_importance,0.24844121255409457
+Multiclass Risk Level,Random Forest Balanced,year_of_study,tree_feature_importance,0.19990342630166894
+Multiclass Risk Level,Random Forest Balanced,age,tree_feature_importance,0.08622247128990197
+Multiclass Risk Level,Random Forest Balanced,cgpa,tree_feature_importance,0.06198278932567562
+Multiclass Risk Level,Random Forest Balanced,gender,tree_feature_importance,0.03869544058267146
