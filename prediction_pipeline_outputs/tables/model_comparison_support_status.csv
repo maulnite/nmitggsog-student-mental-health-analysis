@@ -1,0 +1,4 @@
+target,model,accuracy,macro_f1,weighted_f1,cv_weighted_f1_mean,cv_weighted_f1_std
+support_status,Decision Tree,0.6538,0.5856,0.6033,0.4901,0.0836
+support_status,Logistic Regression,0.4615,0.5211,0.4724,0.5103,0.0376
+support_status,Random Forest,0.4231,0.2927,0.4105,0.4795,0.0622

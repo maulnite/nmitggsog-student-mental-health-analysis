@@ -1,0 +1,16 @@
+feature,importance
+cat__marital_status_1,0.4029434099928033
+cat__cgpa_3.00 - 3.49,0.1747588059068469
+cat__course_clean_Psychology,0.15128816696858047
+num__age,0.09598371907866926
+cat__course_clean_BCS,0.06454204617595018
+cat__course_clean_BIT,0.04976764959637114
+cat__course_clean_Marine Science,0.03106961913586737
+cat__course_clean_Communication,0.02964658314491139
+cat__course_clean_BENL,0.0
+cat__course_clean_Ala,0.0
+cat__course_clean_Accounting,0.0
+cat__gender_Male,0.0
+cat__course_clean_Business Administration,0.0
+cat__course_clean_Cts,0.0
+cat__course_clean_Diploma Nursing,0.0

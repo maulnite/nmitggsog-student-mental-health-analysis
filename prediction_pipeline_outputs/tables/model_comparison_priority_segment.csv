@@ -1,0 +1,4 @@
+target,model,accuracy,macro_f1,weighted_f1,cv_weighted_f1_mean,cv_weighted_f1_std
+priority_segment,Logistic Regression,0.3077,0.3297,0.336,0.3135,0.0726
+priority_segment,Random Forest,0.2692,0.2083,0.2596,0.292,0.0947
+priority_segment,Decision Tree,0.2308,0.2597,0.2114,0.1624,0.064
