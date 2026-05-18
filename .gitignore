@@ -1,5 +1,5 @@
-./analysis_final/outputs/*
-./dataset/*
-./outputs/*
-./label_outputs/*
-./prediction_pipelines_outputs/*
+analysis_final_outputs/
+dataset/
+outputs/
+label_outputs/
+prediction_pipelines_outputs/
