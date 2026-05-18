@@ -1,0 +1,4 @@
+cluster_profile,total_students,dominant_gender,dominant_year,dominant_cgpa,dominant_course,dominant_marital_status,avg_age
+0,33,Female (63.6%),Year 2 (36.4%),3.00 - 3.49 (87.9%),Engineering (18.2%),0 (84.8%),18.8
+1,30,Female (83.3%),Year 1 (66.7%),3.50 - 4.00 (93.3%),BCS (30.0%),0 (90.0%),18.5
+2,38,Female (76.3%),Year 3 (31.6%),3.50 - 4.00 (52.6%),Engineering (15.8%),0 (78.9%),23.6

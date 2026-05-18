@@ -1,0 +1,5 @@
+cluster_condition,persona,total_students,avg_issue_count,depression_rate,anxiety_rate,panic_attack_rate,treatment_rate,silent_struggle_rate,high_risk_rate
+0,Multi-Issue Silent Struggle Persona,18,2.5,83.33333333333334,100.0,66.66666666666666,0.0,100.0,100.0
+1,Stable / Low Indicator Persona,60,0.38333333333333336,16.666666666666664,21.666666666666668,0.0,0.0,38.333333333333336,0.0
+2,Single/Mixed-Issue Silent Struggle Persona,17,1.2352941176470589,23.52941176470588,0.0,100.0,0.0,100.0,23.52941176470588
+3,Reached Support Persona,6,2.1666666666666665,100.0,50.0,66.66666666666666,100.0,0.0,0.0
