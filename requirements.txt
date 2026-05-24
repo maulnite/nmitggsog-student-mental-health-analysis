@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+plotly
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+nbformat
+kaleido
+shap
