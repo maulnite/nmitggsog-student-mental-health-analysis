@@ -1,0 +1,5 @@
+age_group,total,with_any_issue,multiple_issue,silent_struggle,avg_issue_count,any_issue_pct,silent_struggle_pct
+<=18,32,22,10,20,1.06,68.75,62.5
+19-20,28,17,9,16,1.07,60.71,57.14
+21-22,5,3,0,3,0.6,60.0,60.0
+23+,36,22,9,19,0.97,61.11,52.78

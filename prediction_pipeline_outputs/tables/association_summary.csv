@@ -1,0 +1,5 @@
+variable,chi2,p_value,cramers_v,interpretation
+year_study,8.0343,0.0453,0.282,exploratory only; not causal
+cgpa,3.0109,0.556,0.1727,exploratory only; not causal
+age_group,0.5877,0.8992,0.0763,exploratory only; not causal
+gender,0.0,1.0,0.0,exploratory only; not causal

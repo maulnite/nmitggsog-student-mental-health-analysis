@@ -1,0 +1,7 @@
+base_feature,target_class,model,mean_abs_shap,mean_shap
+year_study,At Risk,LogisticRegression,0.7152515202400209,0.1474140193881275
+course_clean,At Risk,LogisticRegression,0.7007473808857525,0.020222104239611204
+marital_status,At Risk,LogisticRegression,0.5195774474559833,0.24277199509952063
+cgpa,At Risk,LogisticRegression,0.3319705415596241,-0.06338898616505272
+gender,At Risk,LogisticRegression,0.19151102103605355,0.01836407051030651
+age,At Risk,LogisticRegression,0.0856866639228861,-0.04168540407059325

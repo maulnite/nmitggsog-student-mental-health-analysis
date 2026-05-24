@@ -1,0 +1,3 @@
+experiment,model,accuracy_mean,balanced_accuracy_mean,f1_macro_mean,f1_weighted_mean,n_splits,status
+Leakage Demo - Invalid,LogReg Leakage,0.99,0.9866666666666667,0.9881481481481481,0.9897777777777778,5,ok
+Leakage Demo - Invalid,RF Leakage,0.8319047619047619,0.8192857142857143,0.8108599679187914,0.8172240178122531,5,ok

@@ -1,0 +1,109 @@
+experiment,model,encoded_feature,importance,importance_type,base_feature,importance_norm
+Leakage Demo - Invalid,LogReg Leakage,age,0.09423617272902209,absolute_coefficient,age,0.011292921211127852
+Leakage Demo - Invalid,LogReg Leakage,depression,1.3018610192729365,absolute_coefficient,depression,0.15601030360988044
+Leakage Demo - Invalid,LogReg Leakage,anxiety,1.3356695451070995,absolute_coefficient,anxiety,0.1600617947459588
+Leakage Demo - Invalid,LogReg Leakage,panic_attack,1.3102315610745798,absolute_coefficient,panic_attack,0.1570133989852861
+Leakage Demo - Invalid,LogReg Leakage,gender_Female,0.08010126242180728,absolute_coefficient,gender,0.009599044817349224
+Leakage Demo - Invalid,LogReg Leakage,gender_Male,0.07994944116172434,absolute_coefficient,gender,0.009580851108090458
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Accounting,0.06644255952014684,absolute_coefficient,course_clean,0.007962235392180888
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Ala,0.04125737915755418,absolute_coefficient,course_clean,0.004944134706570047
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Banking Studies,0.041920763598197554,absolute_coefficient,course_clean,0.005023632292305152
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Benl,0.04289247144007038,absolute_coefficient,course_clean,0.005140078236370168
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Biomedical Science,0.15135275231128434,absolute_coefficient,course_clean,0.018137564986362112
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Biotechnology,0.04700934270514839,absolute_coefficient,course_clean,0.005633429159763136
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Business Administration,0.07288984167246644,absolute_coefficient,course_clean,0.008734854305529786
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Communication,0.0031555910348299125,absolute_coefficient,course_clean,0.00037815458649140125
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Computer Science,0.0974665623679124,absolute_coefficient,course_clean,0.011680039391087608
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Cts,0.10800076043926282,absolute_coefficient,course_clean,0.012942419487786275
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Diploma Nursing,0.06663704090941926,absolute_coefficient,course_clean,0.007985541336623258
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Diploma Tesl,0.06659130490669855,absolute_coefficient,course_clean,0.007980060499909717
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Econs,0.07609342181939793,absolute_coefficient,course_clean,0.00911875973319248
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Engine,0.0700751998233375,absolute_coefficient,course_clean,0.00839755783306845
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Engineering,0.09033131762980767,absolute_coefficient,course_clean,0.010824977536217565
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Enm,0.0025164390531284262,absolute_coefficient,course_clean,0.00030156093076170277
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Fiqh,0.07670220797808718,absolute_coefficient,course_clean,0.009191714458808002
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Fiqh Fatwa,0.0656841289647661,absolute_coefficient,course_clean,0.007871347824721467
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Human Resources,0.04336973100650974,absolute_coefficient,course_clean,0.005197271292125465
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Human Sciences,0.056408375320594006,absolute_coefficient,course_clean,0.006759775144677689
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Information Technology,0.2852192826368374,absolute_coefficient,course_clean,0.034179644540256744
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Irkhs,0.07230966562343523,absolute_coefficient,course_clean,0.008665328111706816
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Islamic Education,0.12072755081873913,absolute_coefficient,course_clean,0.014467551895691285
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Kenms,0.07978169666609006,absolute_coefficient,course_clean,0.009560749216025661
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Kirkhs,0.08243227628366435,absolute_coefficient,course_clean,0.009878385065596507
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Koe,0.03917613546404128,absolute_coefficient,course_clean,0.004694726009555342
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Kop,0.09565547829181069,absolute_coefficient,course_clean,0.011463005642943397
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Law,0.08063941800543949,absolute_coefficient,course_clean,0.009663535430977631
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Malcom,0.17010041682132515,absolute_coefficient,course_clean,0.02038421711657268
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Marine Science,0.0015170313148263675,absolute_coefficient,course_clean,0.0001817955315567668
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Mathematics,0.03110842780889254,absolute_coefficient,course_clean,0.0037279211800978636
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Mhsc,0.06289653029818765,absolute_coefficient,course_clean,0.007537292109190265
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Nursing,0.06862953386400959,absolute_coefficient,course_clean,0.008224314466922365
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Psychology,0.09142575756106523,absolute_coefficient,course_clean,0.010956131248810962
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Radiography,0.03835361637888466,absolute_coefficient,course_clean,0.004596158305091874
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Taasl,0.07635671278327716,absolute_coefficient,course_clean,0.009150311567531507
+Leakage Demo - Invalid,LogReg Leakage,course_clean_Usuluddin,0.0913606229746066,absolute_coefficient,course_clean,0.01094832575616737
+Leakage Demo - Invalid,LogReg Leakage,year_study_Year 1,0.11634924942277396,absolute_coefficient,year_study,0.01394287213343712
+Leakage Demo - Invalid,LogReg Leakage,year_study_Year 2,0.1611624627114853,absolute_coefficient,year_study,0.019313125107760523
+Leakage Demo - Invalid,LogReg Leakage,year_study_Year 3,0.09048885200297054,absolute_coefficient,year_study,0.010843855884230364
+Leakage Demo - Invalid,LogReg Leakage,year_study_Year 4,0.1570047867474301,absolute_coefficient,year_study,0.018814884297212245
+Leakage Demo - Invalid,LogReg Leakage,cgpa_0 - 1.99,0.06135899033866954,absolute_coefficient,cgpa,0.007353038896024156
+Leakage Demo - Invalid,LogReg Leakage,cgpa_2.00 - 2.49,0.0313726153592867,absolute_coefficient,cgpa,0.0037595804581135473
+Leakage Demo - Invalid,LogReg Leakage,cgpa_2.50 - 2.99,0.17945491906968714,absolute_coefficient,cgpa,0.021505226743776442
+Leakage Demo - Invalid,LogReg Leakage,cgpa_3.00 - 3.49,0.14774414892045643,absolute_coefficient,cgpa,0.017705123041887025
+Leakage Demo - Invalid,LogReg Leakage,cgpa_3.50 - 4.00,0.06624963212608102,absolute_coefficient,cgpa,0.007939115672888825
+Leakage Demo - Invalid,LogReg Leakage,marital_status_0,0.17710635882906403,absolute_coefficient,marital_status,0.02122378380112629
+Leakage Demo - Invalid,LogReg Leakage,marital_status_1,0.17988342346481867,absolute_coefficient,marital_status,0.02155657715660313
+Leakage Demo - Invalid,RF Leakage,age,0.043735831074052094,tree_feature_importance,age,0.043735831074052094
+Leakage Demo - Invalid,RF Leakage,depression,0.22356981266573828,tree_feature_importance,depression,0.22356981266573828
+Leakage Demo - Invalid,RF Leakage,anxiety,0.19107233804106696,tree_feature_importance,anxiety,0.19107233804106696
+Leakage Demo - Invalid,RF Leakage,panic_attack,0.12781314856798168,tree_feature_importance,panic_attack,0.12781314856798168
+Leakage Demo - Invalid,RF Leakage,gender_Female,0.014135025967758395,tree_feature_importance,gender,0.014135025967758395
+Leakage Demo - Invalid,RF Leakage,gender_Male,0.006252802950553385,tree_feature_importance,gender,0.006252802950553385
+Leakage Demo - Invalid,RF Leakage,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Benl,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Biomedical Science,0.02381369391458583,tree_feature_importance,course_clean,0.02381369391458583
+Leakage Demo - Invalid,RF Leakage,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Computer Science,0.01163726636350586,tree_feature_importance,course_clean,0.01163726636350586
+Leakage Demo - Invalid,RF Leakage,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Engineering,0.015741046584254063,tree_feature_importance,course_clean,0.015741046584254063
+Leakage Demo - Invalid,RF Leakage,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Information Technology,0.032807533715354734,tree_feature_importance,course_clean,0.032807533715354734
+Leakage Demo - Invalid,RF Leakage,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Islamic Education,0.0013821413289391848,tree_feature_importance,course_clean,0.0013821413289391848
+Leakage Demo - Invalid,RF Leakage,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Koe,0.0157593728381018,tree_feature_importance,course_clean,0.0157593728381018
+Leakage Demo - Invalid,RF Leakage,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Law,0.0015738684054556222,tree_feature_importance,course_clean,0.0015738684054556222
+Leakage Demo - Invalid,RF Leakage,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Psychology,0.001968035063289953,tree_feature_importance,course_clean,0.001968035063289953
+Leakage Demo - Invalid,RF Leakage,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Leakage Demo - Invalid,RF Leakage,year_study_Year 1,0.014175653002183729,tree_feature_importance,year_study,0.014175653002183729
+Leakage Demo - Invalid,RF Leakage,year_study_Year 2,0.025678333898007357,tree_feature_importance,year_study,0.025678333898007357
+Leakage Demo - Invalid,RF Leakage,year_study_Year 3,0.040116157998262604,tree_feature_importance,year_study,0.040116157998262604
+Leakage Demo - Invalid,RF Leakage,year_study_Year 4,0.02914889738783865,tree_feature_importance,year_study,0.02914889738783865
+Leakage Demo - Invalid,RF Leakage,cgpa_0 - 1.99,0.001284138807406572,tree_feature_importance,cgpa,0.001284138807406572
+Leakage Demo - Invalid,RF Leakage,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Leakage Demo - Invalid,RF Leakage,cgpa_2.50 - 2.99,0.0042104140708051465,tree_feature_importance,cgpa,0.0042104140708051465
+Leakage Demo - Invalid,RF Leakage,cgpa_3.00 - 3.49,0.02085124158176636,tree_feature_importance,cgpa,0.02085124158176636
+Leakage Demo - Invalid,RF Leakage,cgpa_3.50 - 4.00,0.01426974092443626,tree_feature_importance,cgpa,0.01426974092443626
+Leakage Demo - Invalid,RF Leakage,marital_status_0,0.05730743568063613,tree_feature_importance,marital_status,0.05730743568063613
+Leakage Demo - Invalid,RF Leakage,marital_status_1,0.08169606916801941,tree_feature_importance,marital_status,0.08169606916801941

@@ -1,0 +1,43 @@
+encoded_feature,mean_abs_shap,mean_shap,target_class,model,base_feature
+year_study_Year 3,0.28791531371198376,0.05045938487735801,At Risk,LogisticRegression,year_study
+year_study_Year 1,0.26078698179927395,0.07781547037558978,At Risk,LogisticRegression,year_study
+marital_status_0,0.25986552307784944,0.12142188196213925,At Risk,LogisticRegression,marital_status
+marital_status_1,0.25971192437813395,0.12135011313738138,At Risk,LogisticRegression,marital_status
+course_clean_Information Technology,0.1803616186601469,0.043535563124863036,At Risk,LogisticRegression,course_clean
+cgpa_3.50 - 4.00,0.16134403963488986,-0.02727404335986935,At Risk,LogisticRegression,cgpa
+course_clean_Computer Science,0.11242651280842209,0.059572614356653945,At Risk,LogisticRegression,course_clean
+cgpa_3.00 - 3.49,0.1042762951776641,0.023013459020202534,At Risk,LogisticRegression,cgpa
+gender_Female,0.09587791996212358,0.009193773147052954,At Risk,LogisticRegression,gender
+gender_Male,0.09563310107392999,0.009170297363253553,At Risk,LogisticRegression,gender
+course_clean_Engineering,0.09537287439065772,-0.056304468013761794,At Risk,LogisticRegression,course_clean
+year_study_Year 2,0.08664722755915072,0.02083920662815018,At Risk,LogisticRegression,year_study
+age,0.0856866639228861,-0.04168540407059325,At Risk,LogisticRegression,age
+year_study_Year 4,0.07990199716961251,-0.0017000424929704769,At Risk,LogisticRegression,year_study
+course_clean_Biomedical Science,0.07095320605085852,-0.07095320605085852,At Risk,LogisticRegression,course_clean
+course_clean_Islamic Education,0.05001186016363645,-0.008481543536523143,At Risk,LogisticRegression,course_clean
+cgpa_0 - 1.99,0.041376882375502286,-0.041376882375502286,At Risk,LogisticRegression,cgpa
+course_clean_Kirkhs,0.033422311610704455,0.016542356251762806,At Risk,LogisticRegression,course_clean
+cgpa_2.50 - 2.99,0.02357564580237748,-0.01914919801907395,At Risk,LogisticRegression,cgpa
+course_clean_Law,0.02033669664529327,0.02033669664529327,At Risk,LogisticRegression,course_clean
+course_clean_Koe,0.019505263054909166,0.019505263054909166,At Risk,LogisticRegression,course_clean
+course_clean_Engine,0.016633775380896335,-0.016633775380896335,At Risk,LogisticRegression,course_clean
+course_clean_Business Administration,0.012999631263127701,-0.012999631263127701,At Risk,LogisticRegression,course_clean
+course_clean_Psychology,0.012036393843866452,0.002250707791942506,At Risk,LogisticRegression,course_clean
+course_clean_Kop,0.007965815579767017,0.007965815579767017,At Risk,LogisticRegression,course_clean
+course_clean_Radiography,0.007442564500217792,-0.007442564500217792,At Risk,LogisticRegression,course_clean
+course_clean_Biotechnology,0.007363859963659509,-0.007363859963659509,At Risk,LogisticRegression,course_clean
+course_clean_Cts,0.0069610993545915255,0.0069610993545915255,At Risk,LogisticRegression,course_clean
+course_clean_Fiqh,0.006936706903158906,0.006936706903158906,At Risk,LogisticRegression,course_clean
+course_clean_Usuluddin,0.005460843529624416,0.005460843529624416,At Risk,LogisticRegression,course_clean
+course_clean_Human Sciences,0.0052668532479151035,0.0052668532479151035,At Risk,LogisticRegression,course_clean
+course_clean_Diploma Nursing,0.005140951006719468,-0.005140951006719468,At Risk,LogisticRegression,course_clean
+course_clean_Mathematics,0.004275895376981142,-0.004275895376981142,At Risk,LogisticRegression,course_clean
+course_clean_Taasl,0.004194736520709735,0.004194736520709735,At Risk,LogisticRegression,course_clean
+course_clean_Diploma Tesl,0.00402579003335983,0.00402579003335983,At Risk,LogisticRegression,course_clean
+course_clean_Benl,0.0036977237755000713,-0.0006914442832235903,At Risk,LogisticRegression,course_clean
+course_clean_Enm,0.0026222012678165842,0.0026222012678165842,At Risk,LogisticRegression,course_clean
+course_clean_Ala,0.002501905268823732,0.002501905268823732,At Risk,LogisticRegression,course_clean
+cgpa_2.00 - 2.49,0.0013976785691903445,0.0013976785691903445,At Risk,LogisticRegression,cgpa
+course_clean_Communication,0.0013113178663620435,0.0013113178663620435,At Risk,LogisticRegression,course_clean
+course_clean_Marine Science,0.0010799616473018436,0.0010799616473018436,At Risk,LogisticRegression,course_clean
+course_clean_Mhsc,0.0004390111707247273,0.0004390111707247273,At Risk,LogisticRegression,course_clean

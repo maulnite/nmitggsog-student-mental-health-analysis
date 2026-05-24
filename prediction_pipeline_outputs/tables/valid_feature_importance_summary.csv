@@ -1,0 +1,766 @@
+experiment,model,encoded_feature,importance,importance_type,base_feature,importance_norm
+Binary At Risk with Oversampling,LogReg Balanced + ROS,age,0.14595518119189074,absolute_coefficient,age,0.006342312578120108
+Binary At Risk with Oversampling,LogReg Balanced + ROS,gender_Female,0.015768376314354557,absolute_coefficient,gender,0.0006851964460485938
+Binary At Risk with Oversampling,LogReg Balanced + ROS,gender_Male,0.014593548040121692,absolute_coefficient,gender,0.0006341456503183479
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Accounting,0.4370010515107,absolute_coefficient,course_clean,0.01898937223752366
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Ala,0.20485761847625703,absolute_coefficient,course_clean,0.008901849456632256
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Banking Studies,0.3649146332098921,absolute_coefficient,course_clean,0.015856940803659337
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Benl,0.21194343501399868,absolute_coefficient,course_clean,0.009209755369848766
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Biomedical Science,1.1287044869660727,absolute_coefficient,course_clean,0.049046540220137505
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Biotechnology,0.5007361362537718,absolute_coefficient,course_clean,0.021758906188511583
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Business Administration,0.45725497470937815,absolute_coefficient,course_clean,0.01986948290444387
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Communication,0.06395906754231911,absolute_coefficient,course_clean,0.002779266862922588
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Computer Science,0.023555152332410574,absolute_coefficient,course_clean,0.0010235617379075483
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Cts,0.436865213308575,absolute_coefficient,course_clean,0.018983469546499668
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Diploma Nursing,0.4577268524626243,absolute_coefficient,course_clean,0.019889987803175857
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Diploma Tesl,0.3423911590506391,absolute_coefficient,course_clean,0.01487820944039664
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Econs,0.4954632980380912,absolute_coefficient,course_clean,0.021529781138858593
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Engine,0.5681691591665571,absolute_coefficient,course_clean,0.024689129740069763
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Engineering,0.28165587612283377,absolute_coefficient,course_clean,0.012239028386986353
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Enm,0.2544288091372229,absolute_coefficient,course_clean,0.011055907870139962
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Fiqh,0.575644353677123,absolute_coefficient,course_clean,0.02501395562004949
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Fiqh Fatwa,0.495581045671431,absolute_coefficient,course_clean,0.021534897725264613
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Human Resources,0.8378410003792014,absolute_coefficient,course_clean,0.03640740583359969
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Human Sciences,0.29328756071559287,absolute_coefficient,course_clean,0.012744469707362588
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Information Technology,1.3769961306361176,absolute_coefficient,course_clean,0.0598357647055656
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Irkhs,0.44271579259972166,absolute_coefficient,course_clean,0.01923769966237849
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Islamic Education,0.4868532742508754,absolute_coefficient,course_clean,0.02115564257304928
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Kenms,0.282873644908817,absolute_coefficient,course_clean,0.012291945112692921
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Kirkhs,1.2250989891831792,absolute_coefficient,course_clean,0.05323525115784246
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Koe,0.4245352564629327,absolute_coefficient,course_clean,0.018447685617822392
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Kop,0.690885582101183,absolute_coefficient,course_clean,0.030021629116689545
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Law,0.5356714461380573,absolute_coefficient,course_clean,0.02327697943188842
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Malcom,0.436865213308575,absolute_coefficient,course_clean,0.018983469546499668
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Marine Science,0.0461962888450303,absolute_coefficient,course_clean,0.0020074059818342635
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Mathematics,0.16385088485789803,absolute_coefficient,course_clean,0.007119949559064326
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Mhsc,0.05540684665447522,absolute_coefficient,course_clean,0.0024076400548511284
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Nursing,0.05082216318701474,absolute_coefficient,course_clean,0.0022084179691058813
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Psychology,0.07990419149888671,absolute_coefficient,course_clean,0.003472143672115584
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Radiography,0.5048211400085822,absolute_coefficient,course_clean,0.021936415273726858
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Taasl,0.33981816429497874,absolute_coefficient,course_clean,0.01476640294699914
+Binary At Risk with Oversampling,LogReg Balanced + ROS,course_clean_Usuluddin,0.3137917505441355,absolute_coefficient,course_clean,0.013635455419495388
+Binary At Risk with Oversampling,LogReg Balanced + ROS,year_study_Year 1,0.1813485890652776,absolute_coefficient,year_study,0.007880291936610936
+Binary At Risk with Oversampling,LogReg Balanced + ROS,year_study_Year 2,0.6506407828802565,absolute_coefficient,year_study,0.028272838191842394
+Binary At Risk with Oversampling,LogReg Balanced + ROS,year_study_Year 3,0.6058789476198478,absolute_coefficient,year_study,0.02632776472152421
+Binary At Risk with Oversampling,LogReg Balanced + ROS,year_study_Year 4,1.0739963131605947,absolute_coefficient,year_study,0.046669260181025456
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa_0 - 1.99,0.5729521249188356,absolute_coefficient,cgpa,0.024896967951798004
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa_2.00 - 2.49,0.33838819354533317,absolute_coefficient,cgpa,0.014704265231861113
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa_2.50 - 2.99,0.13874495719042046,absolute_coefficient,cgpa,0.00602900068331682
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa_3.00 - 3.49,0.49458027228602736,absolute_coefficient,cgpa,0.021491410282213526
+Binary At Risk with Oversampling,LogReg Balanced + ROS,cgpa_3.50 - 4.00,0.556679831642795,absolute_coefficient,cgpa,0.024189874380492665
+Binary At Risk with Oversampling,LogReg Balanced + ROS,marital_status_0,1.1665690853439785,absolute_coefficient,marital_status,0.050691902286742925
+Binary At Risk with Oversampling,LogReg Balanced + ROS,marital_status_1,1.1677439136182115,absolute_coefficient,marital_status,0.05074295308247318
+Binary At Risk,Gradient Boosting,age,0.046520274460412736,tree_feature_importance,age,0.04652027446041274
+Binary At Risk,Gradient Boosting,gender_Female,0.007613227149549934,tree_feature_importance,gender,0.007613227149549936
+Binary At Risk,Gradient Boosting,gender_Male,0.011660642437673913,tree_feature_importance,gender,0.011660642437673915
+Binary At Risk,Gradient Boosting,course_clean_Accounting,0.028253202363245244,tree_feature_importance,course_clean,0.02825320236324525
+Binary At Risk,Gradient Boosting,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Banking Studies,0.029407796991787426,tree_feature_importance,course_clean,0.029407796991787433
+Binary At Risk,Gradient Boosting,course_clean_Benl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Biomedical Science,0.10652409577149624,tree_feature_importance,course_clean,0.10652409577149627
+Binary At Risk,Gradient Boosting,course_clean_Biotechnology,0.025560032179712398,tree_feature_importance,course_clean,0.025560032179712405
+Binary At Risk,Gradient Boosting,course_clean_Business Administration,0.025597758351794037,tree_feature_importance,course_clean,0.025597758351794044
+Binary At Risk,Gradient Boosting,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Computer Science,0.004596983747841863,tree_feature_importance,course_clean,0.004596983747841864
+Binary At Risk,Gradient Boosting,course_clean_Cts,0.0035783358405486587,tree_feature_importance,course_clean,0.0035783358405486595
+Binary At Risk,Gradient Boosting,course_clean_Diploma Nursing,0.026468838550171007,tree_feature_importance,course_clean,0.026468838550171014
+Binary At Risk,Gradient Boosting,course_clean_Diploma Tesl,0.0020554496973186525,tree_feature_importance,course_clean,0.002055449697318653
+Binary At Risk,Gradient Boosting,course_clean_Econs,0.007139165510286164,tree_feature_importance,course_clean,0.007139165510286166
+Binary At Risk,Gradient Boosting,course_clean_Engine,0.028060036688424654,tree_feature_importance,course_clean,0.02806003668842466
+Binary At Risk,Gradient Boosting,course_clean_Engineering,0.002122433036390583,tree_feature_importance,course_clean,0.0021224330363905836
+Binary At Risk,Gradient Boosting,course_clean_Enm,0.0007471791331082194,tree_feature_importance,course_clean,0.0007471791331082196
+Binary At Risk,Gradient Boosting,course_clean_Fiqh,0.0026816408144429544,tree_feature_importance,course_clean,0.002681640814442955
+Binary At Risk,Gradient Boosting,course_clean_Fiqh Fatwa,0.028695216967763552,tree_feature_importance,course_clean,0.02869521696776356
+Binary At Risk,Gradient Boosting,course_clean_Human Resources,0.02694689176872008,tree_feature_importance,course_clean,0.026946891768720088
+Binary At Risk,Gradient Boosting,course_clean_Human Sciences,0.002852488438849531,tree_feature_importance,course_clean,0.0028524884388495316
+Binary At Risk,Gradient Boosting,course_clean_Information Technology,0.04892858349277717,tree_feature_importance,course_clean,0.048928583492777185
+Binary At Risk,Gradient Boosting,course_clean_Irkhs,0.003610498682182526,tree_feature_importance,course_clean,0.003610498682182527
+Binary At Risk,Gradient Boosting,course_clean_Islamic Education,0.018635847378343565,tree_feature_importance,course_clean,0.01863584737834357
+Binary At Risk,Gradient Boosting,course_clean_Kenms,0.0021083185430171175,tree_feature_importance,course_clean,0.002108318543017118
+Binary At Risk,Gradient Boosting,course_clean_Kirkhs,0.05407887654231203,tree_feature_importance,course_clean,0.05407887654231204
+Binary At Risk,Gradient Boosting,course_clean_Koe,0.001452435951572814,tree_feature_importance,course_clean,0.0014524359515728142
+Binary At Risk,Gradient Boosting,course_clean_Kop,0.05111339167864876,tree_feature_importance,course_clean,0.05111339167864878
+Binary At Risk,Gradient Boosting,course_clean_Law,0.004920201441088374,tree_feature_importance,course_clean,0.004920201441088375
+Binary At Risk,Gradient Boosting,course_clean_Malcom,0.0037238230815662492,tree_feature_importance,course_clean,0.00372382308156625
+Binary At Risk,Gradient Boosting,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Gradient Boosting,course_clean_Psychology,0.0049298577636701785,tree_feature_importance,course_clean,0.004929857763670179
+Binary At Risk,Gradient Boosting,course_clean_Radiography,0.024208257354009343,tree_feature_importance,course_clean,0.02420825735400935
+Binary At Risk,Gradient Boosting,course_clean_Taasl,0.004974555810959079,tree_feature_importance,course_clean,0.00497455581095908
+Binary At Risk,Gradient Boosting,course_clean_Usuluddin,0.006057672286254644,tree_feature_importance,course_clean,0.006057672286254646
+Binary At Risk,Gradient Boosting,year_study_Year 1,0.0028420494321053855,tree_feature_importance,year_study,0.002842049432105386
+Binary At Risk,Gradient Boosting,year_study_Year 2,0.00744002044020899,tree_feature_importance,year_study,0.007440020440208992
+Binary At Risk,Gradient Boosting,year_study_Year 3,0.0145643528198359,tree_feature_importance,year_study,0.014564352819835903
+Binary At Risk,Gradient Boosting,year_study_Year 4,0.09048833260098249,tree_feature_importance,year_study,0.0904883326009825
+Binary At Risk,Gradient Boosting,cgpa_0 - 1.99,0.05135304375327782,tree_feature_importance,cgpa,0.05135304375327784
+Binary At Risk,Gradient Boosting,cgpa_2.00 - 2.49,0.011877289798326337,tree_feature_importance,cgpa,0.01187728979832634
+Binary At Risk,Gradient Boosting,cgpa_2.50 - 2.99,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Gradient Boosting,cgpa_3.00 - 3.49,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Gradient Boosting,cgpa_3.50 - 4.00,0.006500752262723745,tree_feature_importance,cgpa,0.006500752262723747
+Binary At Risk,Gradient Boosting,marital_status_0,0.11376640583115183,tree_feature_importance,marital_status,0.11376640583115186
+Binary At Risk,Gradient Boosting,marital_status_1,0.055343743155447704,tree_feature_importance,marital_status,0.05534374315544772
+Binary At Risk,Logistic Regression,age,0.12260125573530377,absolute_coefficient,age,0.006247217581521976
+Binary At Risk,Logistic Regression,gender_Female,0.030355807483521267,absolute_coefficient,gender,0.0015467976496242577
+Binary At Risk,Logistic Regression,gender_Male,0.030364409045568974,absolute_coefficient,gender,0.0015472359471712992
+Binary At Risk,Logistic Regression,course_clean_Accounting,0.478739270096065,absolute_coefficient,course_clean,0.02439443517255851
+Binary At Risk,Logistic Regression,course_clean_Ala,0.1259213830128093,absolute_coefficient,course_clean,0.006416396578723312
+Binary At Risk,Logistic Regression,course_clean_Banking Studies,0.47901991676493344,absolute_coefficient,course_clean,0.024408735685171008
+Binary At Risk,Logistic Regression,course_clean_Benl,0.178279852311923,absolute_coefficient,course_clean,0.009084352530603607
+Binary At Risk,Logistic Regression,course_clean_Biomedical Science,1.1124707578028026,absolute_coefficient,course_clean,0.056686588040170405
+Binary At Risk,Logistic Regression,course_clean_Biotechnology,0.35857192775962315,absolute_coefficient,course_clean,0.018271239049757155
+Binary At Risk,Logistic Regression,course_clean_Business Administration,0.48533913499066905,absolute_coefficient,course_clean,0.02473073508855821
+Binary At Risk,Logistic Regression,course_clean_Communication,0.061304789801325844,absolute_coefficient,course_clean,0.0031238208644878444
+Binary At Risk,Logistic Regression,course_clean_Computer Science,0.05224982832683225,absolute_coefficient,course_clean,0.0026624200885806905
+Binary At Risk,Logistic Regression,course_clean_Cts,0.3273266008895117,absolute_coefficient,course_clean,0.016679115427591405
+Binary At Risk,Logistic Regression,course_clean_Diploma Nursing,0.5094570149026133,absolute_coefficient,course_clean,0.02595967554688622
+Binary At Risk,Logistic Regression,course_clean_Diploma Tesl,0.289245954985612,absolute_coefficient,course_clean,0.014738694188186017
+Binary At Risk,Logistic Regression,course_clean_Econs,0.37302553742272443,absolute_coefficient,course_clean,0.019007731052732468
+Binary At Risk,Logistic Regression,course_clean_Engine,0.6063074635086415,absolute_coefficient,course_clean,0.03089474592345858
+Binary At Risk,Logistic Regression,course_clean_Engineering,0.3018990208604827,absolute_coefficient,course_clean,0.01538343844565357
+Binary At Risk,Logistic Regression,course_clean_Enm,0.22116921921918398,absolute_coefficient,course_clean,0.01126980491766454
+Binary At Risk,Logistic Regression,course_clean_Fiqh,0.49419018967132267,absolute_coefficient,course_clean,0.02518174567637284
+Binary At Risk,Logistic Regression,course_clean_Fiqh Fatwa,0.5281905098404001,absolute_coefficient,course_clean,0.02691425156845134
+Binary At Risk,Logistic Regression,course_clean_Human Resources,0.47403876745422563,absolute_coefficient,course_clean,0.02415491835382797
+Binary At Risk,Logistic Regression,course_clean_Human Sciences,0.27893865866281703,absolute_coefficient,course_clean,0.014213479968971626
+Binary At Risk,Logistic Regression,course_clean_Information Technology,1.094775820269678,absolute_coefficient,course_clean,0.055784932309175826
+Binary At Risk,Logistic Regression,course_clean_Irkhs,0.33781475848672965,absolute_coefficient,course_clean,0.01721354553718649
+Binary At Risk,Logistic Regression,course_clean_Islamic Education,0.5524786985751307,absolute_coefficient,course_clean,0.02815187021091065
+Binary At Risk,Logistic Regression,course_clean_Kenms,0.25130127706712,absolute_coefficient,course_clean,0.012805201275769361
+Binary At Risk,Logistic Regression,course_clean_Kirkhs,0.822211039824006,absolute_coefficient,course_clean,0.04189623697492766
+Binary At Risk,Logistic Regression,course_clean_Koe,0.3153262742940513,absolute_coefficient,course_clean,0.016067631875962673
+Binary At Risk,Logistic Regression,course_clean_Kop,0.6086062240485176,absolute_coefficient,course_clean,0.031011880590426658
+Binary At Risk,Logistic Regression,course_clean_Law,0.4840681725232382,absolute_coefficient,course_clean,0.024665972464192183
+Binary At Risk,Logistic Regression,course_clean_Malcom,0.3273266008895117,absolute_coefficient,course_clean,0.016679115427591405
+Binary At Risk,Logistic Regression,course_clean_Marine Science,0.04691061058152388,absolute_coefficient,course_clean,0.0023903571739717364
+Binary At Risk,Logistic Regression,course_clean_Mathematics,0.21864659401656944,absolute_coefficient,course_clean,0.011141263097902199
+Binary At Risk,Logistic Regression,course_clean_Mhsc,0.05987243463844074,absolute_coefficient,course_clean,0.0030508343823927603
+Binary At Risk,Logistic Regression,course_clean_Nursing,0.04840266974337098,absolute_coefficient,course_clean,0.002466385907712332
+Binary At Risk,Logistic Regression,course_clean_Psychology,0.13556917881315142,absolute_coefficient,course_clean,0.00690800556906643
+Binary At Risk,Logistic Regression,course_clean_Radiography,0.38574285324643937,absolute_coefficient,course_clean,0.0196557492033394
+Binary At Risk,Logistic Regression,course_clean_Taasl,0.3019371663388152,absolute_coefficient,course_clean,0.015385382170466705
+Binary At Risk,Logistic Regression,course_clean_Usuluddin,0.29574312436137745,absolute_coefficient,course_clean,0.015069761194889768
+Binary At Risk,Logistic Regression,year_study_Year 1,0.012531753716945865,absolute_coefficient,year_study,0.000638562726607244
+Binary At Risk,Logistic Regression,year_study_Year 2,0.4620684243668211,absolute_coefficient,year_study,0.023544962629117153
+Binary At Risk,Logistic Regression,year_study_Year 3,0.47887905142702597,absolute_coefficient,year_study,0.024401557810765685
+Binary At Risk,Logistic Regression,year_study_Year 4,0.9534878310728409,absolute_coefficient,year_study,0.048585521464037135
+Binary At Risk,Logistic Regression,cgpa_0 - 1.99,0.5957740322032925,absolute_coefficient,cgpa,0.03035800886599644
+Binary At Risk,Logistic Regression,cgpa_2.00 - 2.49,0.10273976504525893,absolute_coefficient,cgpa,0.005235163886884705
+Binary At Risk,Logistic Regression,cgpa_2.50 - 2.99,0.000708264773076808,absolute_coefficient,cgpa,3.6090039340959156e-05
+Binary At Risk,Logistic Regression,cgpa_3.00 - 3.49,0.26414018640623077,absolute_coefficient,cgpa,0.01345941529396855
+Binary At Risk,Logistic Regression,cgpa_3.50 - 4.00,0.43507327405335,absolute_coefficient,cgpa,0.022169409200706525
+Binary At Risk,Logistic Regression,marital_status_0,1.056901467078959,absolute_coefficient,marital_status,0.0538550228337568
+Binary At Risk,Logistic Regression,marital_status_1,1.0568928655169094,absolute_coefficient,marital_status,0.05385458453620967
+Binary At Risk,Logistic Regression Balanced,age,0.12755080920449,absolute_coefficient,age,0.0063683137856944474
+Binary At Risk,Logistic Regression Balanced,gender_Female,0.03536180590295657,absolute_coefficient,gender,0.0017655323194211642
+Binary At Risk,Logistic Regression Balanced,gender_Male,0.027557604423462934,absolute_coefficient,gender,0.0013758867799050826
+Binary At Risk,Logistic Regression Balanced,course_clean_Accounting,0.4953643577196198,absolute_coefficient,course_clean,0.02473238459153956
+Binary At Risk,Logistic Regression Balanced,course_clean_Ala,0.13464192724579174,absolute_coefficient,course_clean,0.006722356735794515
+Binary At Risk,Logistic Regression Balanced,course_clean_Banking Studies,0.4940377106770309,absolute_coefficient,course_clean,0.024666148205406368
+Binary At Risk,Logistic Regression Balanced,course_clean_Benl,0.17619323605043144,absolute_coefficient,course_clean,0.008796916468692857
+Binary At Risk,Logistic Regression Balanced,course_clean_Biomedical Science,1.0853814893296256,absolute_coefficient,course_clean,0.0541905609564107
+Binary At Risk,Logistic Regression Balanced,course_clean_Biotechnology,0.351069575052162,absolute_coefficient,course_clean,0.017528083345659196
+Binary At Risk,Logistic Regression Balanced,course_clean_Business Administration,0.49671271536837175,absolute_coefficient,course_clean,0.0247997049374954
+Binary At Risk,Logistic Regression Balanced,course_clean_Communication,0.06541920165252786,absolute_coefficient,course_clean,0.003266227837606324
+Binary At Risk,Logistic Regression Balanced,course_clean_Computer Science,0.0005553776203081704,absolute_coefficient,course_clean,2.7728706526702275e-05
+Binary At Risk,Logistic Regression Balanced,course_clean_Cts,0.3418168328328462,absolute_coefficient,course_clean,0.017066115552602876
+Binary At Risk,Logistic Regression Balanced,course_clean_Diploma Nursing,0.5330215844228254,absolute_coefficient,course_clean,0.02661252190654927
+Binary At Risk,Logistic Regression Balanced,course_clean_Diploma Tesl,0.30028072783032733,absolute_coefficient,course_clean,0.014992314910009371
+Binary At Risk,Logistic Regression Balanced,course_clean_Econs,0.38348308280300675,absolute_coefficient,course_clean,0.019146414029249655
+Binary At Risk,Logistic Regression Balanced,course_clean_Engine,0.5968939641750048,absolute_coefficient,course_clean,0.02980152054197773
+Binary At Risk,Logistic Regression Balanced,course_clean_Engineering,0.2859464762419169,absolute_coefficient,course_clean,0.014276639230902246
+Binary At Risk,Logistic Regression Balanced,course_clean_Enm,0.226514015548979,absolute_coefficient,course_clean,0.01130931537690935
+Binary At Risk,Logistic Regression Balanced,course_clean_Fiqh,0.4897946967015036,absolute_coefficient,course_clean,0.024454304434584618
+Binary At Risk,Logistic Regression Balanced,course_clean_Fiqh Fatwa,0.5568655745247639,absolute_coefficient,course_clean,0.02780299660301863
+Binary At Risk,Logistic Regression Balanced,course_clean_Human Resources,0.4895386111610798,absolute_coefficient,course_clean,0.0244415186820867
+Binary At Risk,Logistic Regression Balanced,course_clean_Human Sciences,0.2992125642724336,absolute_coefficient,course_clean,0.014938984000126977
+Binary At Risk,Logistic Regression Balanced,course_clean_Information Technology,1.1592290473651596,absolute_coefficient,course_clean,0.057877596929060623
+Binary At Risk,Logistic Regression Balanced,course_clean_Irkhs,0.35150379780564917,absolute_coefficient,course_clean,0.017549763072854507
+Binary At Risk,Logistic Regression Balanced,course_clean_Islamic Education,0.574145455816731,absolute_coefficient,course_clean,0.02866574068855693
+Binary At Risk,Logistic Regression Balanced,course_clean_Kenms,0.26799317322332766,absolute_coefficient,course_clean,0.013380272772507352
+Binary At Risk,Logistic Regression Balanced,course_clean_Kirkhs,0.8328964861705014,absolute_coefficient,course_clean,0.04158457486876809
+Binary At Risk,Logistic Regression Balanced,course_clean_Koe,0.28228836484701164,absolute_coefficient,course_clean,0.014093998278868513
+Binary At Risk,Logistic Regression Balanced,course_clean_Kop,0.5750623948487461,absolute_coefficient,course_clean,0.02871152131131144
+Binary At Risk,Logistic Regression Balanced,course_clean_Law,0.5116589474664888,absolute_coefficient,course_clean,0.025545935373101892
+Binary At Risk,Logistic Regression Balanced,course_clean_Malcom,0.34181683283284614,absolute_coefficient,course_clean,0.017066115552602873
+Binary At Risk,Logistic Regression Balanced,course_clean_Marine Science,0.049321487717682584,absolute_coefficient,course_clean,0.002462506605190716
+Binary At Risk,Logistic Regression Balanced,course_clean_Mathematics,0.20519088413052225,absolute_coefficient,course_clean,0.010244701262634076
+Binary At Risk,Logistic Regression Balanced,course_clean_Mhsc,0.063621232403542,absolute_coefficient,course_clean,0.0031764594353046608
+Binary At Risk,Logistic Regression Balanced,course_clean_Nursing,0.04961598501708931,absolute_coefficient,course_clean,0.002477210167036842
+Binary At Risk,Logistic Regression Balanced,course_clean_Psychology,0.1090068248735465,absolute_coefficient,course_clean,0.005442455989942477
+Binary At Risk,Logistic Regression Balanced,course_clean_Radiography,0.37791053902952054,absolute_coefficient,course_clean,0.018868189943056803
+Binary At Risk,Logistic Regression Balanced,course_clean_Taasl,0.3165766180304807,absolute_coefficient,course_clean,0.015805930620164714
+Binary At Risk,Logistic Regression Balanced,course_clean_Usuluddin,0.31528030382560923,absolute_coefficient,course_clean,0.015741208681723386
+Binary At Risk,Logistic Regression Balanced,year_study_Year 1,0.00767017508985431,absolute_coefficient,year_study,0.0003829539151343141
+Binary At Risk,Logistic Regression Balanced,year_study_Year 2,0.45977071075461634,absolute_coefficient,year_study,0.022955276989760475
+Binary At Risk,Logistic Regression Balanced,year_study_Year 3,0.503070524413715,absolute_coefficient,year_study,0.025117135483352315
+Binary At Risk,Logistic Regression Balanced,year_study_Year 4,0.9473668585989836,absolute_coefficient,year_study,0.0472998130184624
+Binary At Risk,Logistic Regression Balanced,cgpa_0 - 1.99,0.6308750053485543,absolute_coefficient,cgpa,0.031498114505649336
+Binary At Risk,Logistic Regression Balanced,cgpa_2.00 - 2.49,0.11237720188141923,absolute_coefficient,cgpa,0.0056107310365383235
+Binary At Risk,Logistic Regression Balanced,cgpa_2.50 - 2.99,0.015019833475978487,absolute_coefficient,cgpa,0.0007499051803784376
+Binary At Risk,Logistic Regression Balanced,cgpa_3.00 - 3.49,0.26747699355156523,absolute_coefficient,cgpa,0.013354501127936208
+Binary At Risk,Logistic Regression Balanced,cgpa_3.50 - 4.00,0.4685595816819246,absolute_coefficient,cgpa,0.023394084773389147
+Binary At Risk,Logistic Regression Balanced,marital_status_0,1.1163267094329645,absolute_coefficient,marital_status,0.0557355834695137
+Binary At Risk,Logistic Regression Balanced,marital_status_1,1.1241309109124586,absolute_coefficient,marital_status,0.0561252290090298
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,age,0.18114215656916108,absolute_coefficient,age,0.007783052371821564
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,gender_Female,0.10403108999543524,absolute_coefficient,gender,0.0044698563662237
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,gender_Male,0.10406296915324496,absolute_coefficient,gender,0.004471226103448331
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Accounting,0.38532752807277953,absolute_coefficient,course_clean,0.016556192043291385
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Ala,0.14962070436680489,absolute_coefficient,course_clean,0.00642868452077338
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Banking Studies,0.9969438239037677,absolute_coefficient,course_clean,0.042835230297396554
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Benl,0.274719973606228,absolute_coefficient,course_clean,0.011803767729497849
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Biomedical Science,1.1778292139587918,absolute_coefficient,course_clean,0.050607250299588055
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Biotechnology,0.4723796966341111,absolute_coefficient,course_clean,0.020296522841080012
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Business Administration,0.7893660016771065,absolute_coefficient,course_clean,0.0339163287439532
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Communication,0.06716912733348841,absolute_coefficient,course_clean,0.002886025239555382
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Computer Science,0.0219561685240445,absolute_coefficient,course_clean,0.0009433806726372572
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Cts,0.40777750940267293,absolute_coefficient,course_clean,0.01752079014539173
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Diploma Nursing,0.5274935561600094,absolute_coefficient,course_clean,0.022664574890518353
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Diploma Tesl,0.3660135196512853,absolute_coefficient,course_clean,0.015726335857953886
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Econs,0.480108132370537,absolute_coefficient,course_clean,0.02062858701227085
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Engine,0.773821054823195,absolute_coefficient,course_clean,0.03324841610686928
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Engineering,0.4554489360219349,absolute_coefficient,course_clean,0.019569066576701103
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Enm,0.27845871715280907,absolute_coefficient,course_clean,0.011964408617179565
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Fiqh,0.608205229620208,absolute_coefficient,course_clean,0.026132476528965738
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Fiqh Fatwa,0.6090072399187457,absolute_coefficient,course_clean,0.02616693613944231
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Human Resources,0.46021043424996516,absolute_coefficient,course_clean,0.019773651698016835
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Human Sciences,0.3186820080744957,absolute_coefficient,course_clean,0.01369266440114432
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Information Technology,1.3810058516748132,absolute_coefficient,course_clean,0.05933704816677116
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Irkhs,0.44853730642235257,absolute_coefficient,course_clean,0.01927209774201881
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Islamic Education,0.5468782263892442,absolute_coefficient,course_clean,0.023497467169500477
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Kenms,0.28587354955613076,absolute_coefficient,course_clean,0.01228299833707891
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Kirkhs,0.9434211679744232,absolute_coefficient,course_clean,0.04053554676669935
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Koe,0.18630325424876581,absolute_coefficient,course_clean,0.008004806900404279
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Kop,0.7256968489866803,absolute_coefficient,course_clean,0.031180685317571163
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Law,0.5740044629757945,absolute_coefficient,course_clean,0.024662987797068665
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Malcom,0.40777750940267304,absolute_coefficient,course_clean,0.017520790145391738
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Marine Science,0.044859939845912834,absolute_coefficient,course_clean,0.001927476562222545
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Mathematics,0.3568438374036638,absolute_coefficient,course_clean,0.015332346305671218
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Mhsc,0.07429528117611256,absolute_coefficient,course_clean,0.003192211439484083
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Nursing,0.05185969048842502,absolute_coefficient,course_clean,0.002228231653539808
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Psychology,0.05494415440951272,absolute_coefficient,course_clean,0.0023607604071524645
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Radiography,0.35918059367971444,absolute_coefficient,course_clean,0.015432748646137672
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Taasl,0.3901287741989779,absolute_coefficient,course_clean,0.0167624849944076
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,course_clean_Usuluddin,0.3452238461770465,absolute_coefficient,course_clean,0.014833075445757725
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,year_study_Year 1,0.05561474733117577,absolute_coefficient,year_study,0.002389573467173
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,year_study_Year 2,0.6085215409787522,absolute_coefficient,year_study,0.02614606733475043
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,year_study_Year 3,0.5276173210358057,absolute_coefficient,year_study,0.022669892639452998
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,year_study_Year 4,1.0805559938411928,absolute_coefficient,year_study,0.0464277562442551
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa_0 - 1.99,0.7215218651908583,absolute_coefficient,cgpa,0.03100130069419122
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa_2.00 - 2.49,0.0019248985707667682,absolute_coefficient,cgpa,8.2706238406752e-05
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa_2.50 - 2.99,0.04906835099144585,absolute_coefficient,cgpa,0.0021082974432819757
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa_3.00 - 3.49,0.2405318152036763,absolute_coefficient,cgpa,0.01033482073017471
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,cgpa_3.50 - 4.00,0.4299649212671582,absolute_coefficient,cgpa,0.01847410654510309
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,marital_status_0,1.1860118456229118,absolute_coefficient,marital_status,0.05095882969991862
+Binary At Risk with Oversampling,LogReg Balanced + SMOTE,marital_status_1,1.1859799664651014,absolute_coefficient,marital_status,0.05095745996269396
+Binary At Risk,Decision Tree Balanced,age,0.008029078759108774,tree_feature_importance,age,0.008029078759108776
+Binary At Risk,Decision Tree Balanced,gender_Female,0.0,tree_feature_importance,gender,0.0
+Binary At Risk,Decision Tree Balanced,gender_Male,0.0,tree_feature_importance,gender,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Benl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Biomedical Science,0.150239152924927,tree_feature_importance,course_clean,0.15023915292492704
+Binary At Risk,Decision Tree Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Computer Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Engineering,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Information Technology,0.17991691755229774,tree_feature_importance,course_clean,0.17991691755229777
+Binary At Risk,Decision Tree Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Islamic Education,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Koe,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Law,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Psychology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Decision Tree Balanced,year_study_Year 1,0.0,tree_feature_importance,year_study,0.0
+Binary At Risk,Decision Tree Balanced,year_study_Year 2,0.0,tree_feature_importance,year_study,0.0
+Binary At Risk,Decision Tree Balanced,year_study_Year 3,0.0,tree_feature_importance,year_study,0.0
+Binary At Risk,Decision Tree Balanced,year_study_Year 4,0.12827506974027966,tree_feature_importance,year_study,0.1282750697402797
+Binary At Risk,Decision Tree Balanced,cgpa_0 - 1.99,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Decision Tree Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Decision Tree Balanced,cgpa_2.50 - 2.99,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Decision Tree Balanced,cgpa_3.00 - 3.49,0.03542172820072333,tree_feature_importance,cgpa,0.03542172820072334
+Binary At Risk,Decision Tree Balanced,cgpa_3.50 - 4.00,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Decision Tree Balanced,marital_status_0,0.4981180528226633,tree_feature_importance,marital_status,0.4981180528226634
+Binary At Risk,Decision Tree Balanced,marital_status_1,0.0,tree_feature_importance,marital_status,0.0
+Binary At Risk with Oversampling,RF + ROS,age,0.08699425506944475,tree_feature_importance,age,0.08699425506944475
+Binary At Risk with Oversampling,RF + ROS,gender_Female,0.011391948706969185,tree_feature_importance,gender,0.011391948706969185
+Binary At Risk with Oversampling,RF + ROS,gender_Male,0.01569246878318026,tree_feature_importance,gender,0.01569246878318026
+Binary At Risk with Oversampling,RF + ROS,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Benl,0.0062040606189733,tree_feature_importance,course_clean,0.0062040606189733
+Binary At Risk with Oversampling,RF + ROS,course_clean_Biomedical Science,0.04502952739183019,tree_feature_importance,course_clean,0.04502952739183019
+Binary At Risk with Oversampling,RF + ROS,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Computer Science,0.017851449011331694,tree_feature_importance,course_clean,0.017851449011331694
+Binary At Risk with Oversampling,RF + ROS,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Engine,0.023401666242340965,tree_feature_importance,course_clean,0.023401666242340965
+Binary At Risk with Oversampling,RF + ROS,course_clean_Engineering,0.008594349663722174,tree_feature_importance,course_clean,0.008594349663722174
+Binary At Risk with Oversampling,RF + ROS,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Human Resources,0.0018701963066520009,tree_feature_importance,course_clean,0.0018701963066520009
+Binary At Risk with Oversampling,RF + ROS,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Information Technology,0.10865013293800364,tree_feature_importance,course_clean,0.10865013293800364
+Binary At Risk with Oversampling,RF + ROS,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Islamic Education,0.021693357872101214,tree_feature_importance,course_clean,0.021693357872101214
+Binary At Risk with Oversampling,RF + ROS,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Kirkhs,0.02303791858769254,tree_feature_importance,course_clean,0.02303791858769254
+Binary At Risk with Oversampling,RF + ROS,course_clean_Koe,0.004532873691036132,tree_feature_importance,course_clean,0.004532873691036132
+Binary At Risk with Oversampling,RF + ROS,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Law,0.01006877700916595,tree_feature_importance,course_clean,0.01006877700916595
+Binary At Risk with Oversampling,RF + ROS,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Psychology,0.0056446170674797555,tree_feature_importance,course_clean,0.0056446170674797555
+Binary At Risk with Oversampling,RF + ROS,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk with Oversampling,RF + ROS,year_study_Year 1,0.035301742135212075,tree_feature_importance,year_study,0.035301742135212075
+Binary At Risk with Oversampling,RF + ROS,year_study_Year 2,0.037710191939526745,tree_feature_importance,year_study,0.037710191939526745
+Binary At Risk with Oversampling,RF + ROS,year_study_Year 3,0.03409493897859652,tree_feature_importance,year_study,0.03409493897859652
+Binary At Risk with Oversampling,RF + ROS,year_study_Year 4,0.07325837175065879,tree_feature_importance,year_study,0.07325837175065879
+Binary At Risk with Oversampling,RF + ROS,cgpa_0 - 1.99,0.016407275233724195,tree_feature_importance,cgpa,0.016407275233724195
+Binary At Risk with Oversampling,RF + ROS,cgpa_2.00 - 2.49,0.009468107462621618,tree_feature_importance,cgpa,0.009468107462621618
+Binary At Risk with Oversampling,RF + ROS,cgpa_2.50 - 2.99,0.01253640578772806,tree_feature_importance,cgpa,0.01253640578772806
+Binary At Risk with Oversampling,RF + ROS,cgpa_3.00 - 3.49,0.029114388789759894,tree_feature_importance,cgpa,0.029114388789759894
+Binary At Risk with Oversampling,RF + ROS,cgpa_3.50 - 4.00,0.0059505591554772355,tree_feature_importance,cgpa,0.0059505591554772355
+Binary At Risk with Oversampling,RF + ROS,marital_status_0,0.16388656666548646,tree_feature_importance,marital_status,0.16388656666548646
+Binary At Risk with Oversampling,RF + ROS,marital_status_1,0.1916138531412847,tree_feature_importance,marital_status,0.1916138531412847
+Binary At Risk,Random Forest Balanced,age,0.084404248253374,tree_feature_importance,age,0.084404248253374
+Binary At Risk,Random Forest Balanced,gender_Female,0.017000159394599045,tree_feature_importance,gender,0.017000159394599045
+Binary At Risk,Random Forest Balanced,gender_Male,0.021228007296695245,tree_feature_importance,gender,0.021228007296695245
+Binary At Risk,Random Forest Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Benl,0.006814248092199578,tree_feature_importance,course_clean,0.006814248092199578
+Binary At Risk,Random Forest Balanced,course_clean_Biomedical Science,0.04203521522925578,tree_feature_importance,course_clean,0.04203521522925578
+Binary At Risk,Random Forest Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Computer Science,0.02408122887097543,tree_feature_importance,course_clean,0.02408122887097543
+Binary At Risk,Random Forest Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Engineering,0.018692872434105338,tree_feature_importance,course_clean,0.018692872434105338
+Binary At Risk,Random Forest Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Information Technology,0.10129234696901183,tree_feature_importance,course_clean,0.10129234696901183
+Binary At Risk,Random Forest Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Islamic Education,0.036585732570989515,tree_feature_importance,course_clean,0.036585732570989515
+Binary At Risk,Random Forest Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Koe,0.01423149644545832,tree_feature_importance,course_clean,0.01423149644545832
+Binary At Risk,Random Forest Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Law,0.010127471710890148,tree_feature_importance,course_clean,0.010127471710890148
+Binary At Risk,Random Forest Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Psychology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Random Forest Balanced,year_study_Year 1,0.018396997468666142,tree_feature_importance,year_study,0.018396997468666142
+Binary At Risk,Random Forest Balanced,year_study_Year 2,0.036034921858134915,tree_feature_importance,year_study,0.036034921858134915
+Binary At Risk,Random Forest Balanced,year_study_Year 3,0.037378649624346116,tree_feature_importance,year_study,0.037378649624346116
+Binary At Risk,Random Forest Balanced,year_study_Year 4,0.0743466348526218,tree_feature_importance,year_study,0.0743466348526218
+Binary At Risk,Random Forest Balanced,cgpa_0 - 1.99,0.0025087928053924577,tree_feature_importance,cgpa,0.0025087928053924577
+Binary At Risk,Random Forest Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Random Forest Balanced,cgpa_2.50 - 2.99,0.000860022596461367,tree_feature_importance,cgpa,0.000860022596461367
+Binary At Risk,Random Forest Balanced,cgpa_3.00 - 3.49,0.03621881089206385,tree_feature_importance,cgpa,0.03621881089206385
+Binary At Risk,Random Forest Balanced,cgpa_3.50 - 4.00,0.03762872735631049,tree_feature_importance,cgpa,0.03762872735631049
+Binary At Risk,Random Forest Balanced,marital_status_0,0.1661149144597595,tree_feature_importance,marital_status,0.1661149144597595
+Binary At Risk,Random Forest Balanced,marital_status_1,0.21401850081868906,tree_feature_importance,marital_status,0.21401850081868906
+Binary At Risk,Extra Trees Balanced,age,0.012509502566473615,tree_feature_importance,age,0.012509502566473615
+Binary At Risk,Extra Trees Balanced,gender_Female,0.0068418630899689265,tree_feature_importance,gender,0.0068418630899689265
+Binary At Risk,Extra Trees Balanced,gender_Male,0.009761601287331388,tree_feature_importance,gender,0.009761601287331388
+Binary At Risk,Extra Trees Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Benl,0.00024510992540371587,tree_feature_importance,course_clean,0.00024510992540371587
+Binary At Risk,Extra Trees Balanced,course_clean_Biomedical Science,0.07379532711401347,tree_feature_importance,course_clean,0.07379532711401347
+Binary At Risk,Extra Trees Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Computer Science,0.0014265761799287745,tree_feature_importance,course_clean,0.0014265761799287745
+Binary At Risk,Extra Trees Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Engineering,0.005378779007159381,tree_feature_importance,course_clean,0.005378779007159381
+Binary At Risk,Extra Trees Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Information Technology,0.12790102961611124,tree_feature_importance,course_clean,0.12790102961611124
+Binary At Risk,Extra Trees Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Islamic Education,0.0180681746002769,tree_feature_importance,course_clean,0.0180681746002769
+Binary At Risk,Extra Trees Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Koe,0.006331270837081695,tree_feature_importance,course_clean,0.006331270837081695
+Binary At Risk,Extra Trees Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Law,0.02184284474859711,tree_feature_importance,course_clean,0.02184284474859711
+Binary At Risk,Extra Trees Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Psychology,0.000380418471046702,tree_feature_importance,course_clean,0.000380418471046702
+Binary At Risk,Extra Trees Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Binary At Risk,Extra Trees Balanced,year_study_Year 1,0.017146160673139017,tree_feature_importance,year_study,0.017146160673139017
+Binary At Risk,Extra Trees Balanced,year_study_Year 2,0.033432331196818564,tree_feature_importance,year_study,0.033432331196818564
+Binary At Risk,Extra Trees Balanced,year_study_Year 3,0.028293651373703065,tree_feature_importance,year_study,0.028293651373703065
+Binary At Risk,Extra Trees Balanced,year_study_Year 4,0.08481845117390052,tree_feature_importance,year_study,0.08481845117390052
+Binary At Risk,Extra Trees Balanced,cgpa_0 - 1.99,0.03312269096679148,tree_feature_importance,cgpa,0.03312269096679148
+Binary At Risk,Extra Trees Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Extra Trees Balanced,cgpa_2.50 - 2.99,0.0,tree_feature_importance,cgpa,0.0
+Binary At Risk,Extra Trees Balanced,cgpa_3.00 - 3.49,0.0178304136813059,tree_feature_importance,cgpa,0.0178304136813059
+Binary At Risk,Extra Trees Balanced,cgpa_3.50 - 4.00,0.010893762428812464,tree_feature_importance,cgpa,0.010893762428812464
+Binary At Risk,Extra Trees Balanced,marital_status_0,0.25071437134196217,tree_feature_importance,marital_status,0.25071437134196217
+Binary At Risk,Extra Trees Balanced,marital_status_1,0.23926566972017393,tree_feature_importance,marital_status,0.23926566972017393
+Multiclass Risk Level,Extra Trees Balanced,age,0.02944404170060941,tree_feature_importance,age,0.02944404170060941
+Multiclass Risk Level,Extra Trees Balanced,gender_Female,0.014160517857473767,tree_feature_importance,gender,0.014160517857473767
+Multiclass Risk Level,Extra Trees Balanced,gender_Male,0.012490592203714807,tree_feature_importance,gender,0.012490592203714807
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Benl,0.0003685775473353652,tree_feature_importance,course_clean,0.0003685775473353652
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Biomedical Science,0.0847594409477254,tree_feature_importance,course_clean,0.0847594409477254
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Computer Science,0.0032655258590201905,tree_feature_importance,course_clean,0.0032655258590201905
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Engineering,0.005856260019931427,tree_feature_importance,course_clean,0.005856260019931427
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Information Technology,0.048657088593802376,tree_feature_importance,course_clean,0.048657088593802376
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Islamic Education,0.009391512989477286,tree_feature_importance,course_clean,0.009391512989477286
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Koe,0.0009024495966064176,tree_feature_importance,course_clean,0.0009024495966064176
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Law,0.01106956208264365,tree_feature_importance,course_clean,0.01106956208264365
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Psychology,0.03828571645077522,tree_feature_importance,course_clean,0.03828571645077522
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Extra Trees Balanced,year_study_Year 1,0.02493732256980719,tree_feature_importance,year_study,0.02493732256980719
+Multiclass Risk Level,Extra Trees Balanced,year_study_Year 2,0.03982187518572045,tree_feature_importance,year_study,0.03982187518572045
+Multiclass Risk Level,Extra Trees Balanced,year_study_Year 3,0.0309454345959038,tree_feature_importance,year_study,0.0309454345959038
+Multiclass Risk Level,Extra Trees Balanced,year_study_Year 4,0.07287639002835672,tree_feature_importance,year_study,0.07287639002835672
+Multiclass Risk Level,Extra Trees Balanced,cgpa_0 - 1.99,0.02922961252466521,tree_feature_importance,cgpa,0.02922961252466521
+Multiclass Risk Level,Extra Trees Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Extra Trees Balanced,cgpa_2.50 - 2.99,0.01932741941503964,tree_feature_importance,cgpa,0.01932741941503964
+Multiclass Risk Level,Extra Trees Balanced,cgpa_3.00 - 3.49,0.023999248694325622,tree_feature_importance,cgpa,0.023999248694325622
+Multiclass Risk Level,Extra Trees Balanced,cgpa_3.50 - 4.00,0.009183891736979302,tree_feature_importance,cgpa,0.009183891736979302
+Multiclass Risk Level,Extra Trees Balanced,marital_status_0,0.19739323453775273,tree_feature_importance,marital_status,0.19739323453775273
+Multiclass Risk Level,Extra Trees Balanced,marital_status_1,0.29363428486233406,tree_feature_importance,marital_status,0.29363428486233406
+Multiclass Risk Level,Logistic Regression,age,0.15662167799402008,absolute_coefficient,age,0.011017401857053827
+Multiclass Risk Level,Logistic Regression,gender_Female,0.07968017839034659,absolute_coefficient,gender,0.005605025795992955
+Multiclass Risk Level,Logistic Regression,gender_Male,0.08210308885751154,absolute_coefficient,gender,0.005775463111071634
+Multiclass Risk Level,Logistic Regression,course_clean_Accounting,0.28890580013899303,absolute_coefficient,course_clean,0.02032280166916927
+Multiclass Risk Level,Logistic Regression,course_clean_Ala,0.060935511543944776,absolute_coefficient,course_clean,0.004286450168605745
+Multiclass Risk Level,Logistic Regression,course_clean_Banking Studies,0.28874344001569113,absolute_coefficient,course_clean,0.02031138060187585
+Multiclass Risk Level,Logistic Regression,course_clean_Benl,0.15037590975553025,absolute_coefficient,course_clean,0.010578049275273334
+Multiclass Risk Level,Logistic Regression,course_clean_Biomedical Science,0.5860462470272383,absolute_coefficient,course_clean,0.04122486167313213
+Multiclass Risk Level,Logistic Regression,course_clean_Biotechnology,0.18721325599680969,absolute_coefficient,course_clean,0.0131693370975319
+Multiclass Risk Level,Logistic Regression,course_clean_Business Administration,0.2986002626831989,absolute_coefficient,course_clean,0.021004749347202388
+Multiclass Risk Level,Logistic Regression,course_clean_Communication,0.22608227553729585,absolute_coefficient,course_clean,0.015903541031188927
+Multiclass Risk Level,Logistic Regression,course_clean_Computer Science,0.12493793199417069,absolute_coefficient,course_clean,0.008788639105383586
+Multiclass Risk Level,Logistic Regression,course_clean_Cts,0.3733419714388336,absolute_coefficient,course_clean,0.026262383228989467
+Multiclass Risk Level,Logistic Regression,course_clean_Diploma Nursing,0.3124955488188797,absolute_coefficient,course_clean,0.021982199935373134
+Multiclass Risk Level,Logistic Regression,course_clean_Diploma Tesl,0.23141452697572493,absolute_coefficient,course_clean,0.01627863314903911
+Multiclass Risk Level,Logistic Regression,course_clean_Econs,0.4074381165462963,absolute_coefficient,course_clean,0.02866084388422315
+Multiclass Risk Level,Logistic Regression,course_clean_Engine,0.32548506809152666,absolute_coefficient,course_clean,0.022895935221507412
+Multiclass Risk Level,Logistic Regression,course_clean_Engineering,0.1955271970844237,absolute_coefficient,course_clean,0.013754173316574402
+Multiclass Risk Level,Logistic Regression,course_clean_Enm,0.22853449881812282,absolute_coefficient,course_clean,0.016076040328055898
+Multiclass Risk Level,Logistic Regression,course_clean_Fiqh,0.3226366806577841,absolute_coefficient,course_clean,0.022695568136924638
+Multiclass Risk Level,Logistic Regression,course_clean_Fiqh Fatwa,0.31237963999979207,absolute_coefficient,course_clean,0.021974046440563087
+Multiclass Risk Level,Logistic Regression,course_clean_Human Resources,0.2513691501196969,absolute_coefficient,course_clean,0.017682321992748218
+Multiclass Risk Level,Logistic Regression,course_clean_Human Sciences,0.2322527920999068,absolute_coefficient,course_clean,0.01633760010593902
+Multiclass Risk Level,Logistic Regression,course_clean_Information Technology,0.5762440993777271,absolute_coefficient,course_clean,0.04053533898955468
+Multiclass Risk Level,Logistic Regression,course_clean_Irkhs,0.28467195539959883,absolute_coefficient,course_clean,0.020024975918023505
+Multiclass Risk Level,Logistic Regression,course_clean_Islamic Education,0.28019832805992057,absolute_coefficient,course_clean,0.019710282889630462
+Multiclass Risk Level,Logistic Regression,course_clean_Kenms,0.23423829568637958,absolute_coefficient,course_clean,0.016477268453136955
+Multiclass Risk Level,Logistic Regression,course_clean_Kirkhs,0.4652707083269461,absolute_coefficient,course_clean,0.03272902213542727
+Multiclass Risk Level,Logistic Regression,course_clean_Koe,0.16766532371614995,absolute_coefficient,course_clean,0.011794256532894317
+Multiclass Risk Level,Logistic Regression,course_clean_Kop,0.4163842457857451,absolute_coefficient,course_clean,0.029290150773017373
+Multiclass Risk Level,Logistic Regression,course_clean_Law,0.2776494012749533,absolute_coefficient,course_clean,0.019530981077430083
+Multiclass Risk Level,Logistic Regression,course_clean_Malcom,0.3733419714388336,absolute_coefficient,course_clean,0.026262383228989467
+Multiclass Risk Level,Logistic Regression,course_clean_Marine Science,0.1418678138259214,absolute_coefficient,course_clean,0.009979555419917987
+Multiclass Risk Level,Logistic Regression,course_clean_Mathematics,0.10672362662967522,absolute_coefficient,course_clean,0.0075073712482265475
+Multiclass Risk Level,Logistic Regression,course_clean_Mhsc,0.10809342508565412,absolute_coefficient,course_clean,0.007603728408014272
+Multiclass Risk Level,Logistic Regression,course_clean_Nursing,0.12141042749141395,absolute_coefficient,course_clean,0.008540500181339358
+Multiclass Risk Level,Logistic Regression,course_clean_Psychology,0.3490033221539943,absolute_coefficient,course_clean,0.024550304267358065
+Multiclass Risk Level,Logistic Regression,course_clean_Radiography,0.21928511633820313,absolute_coefficient,course_clean,0.01542540138065068
+Multiclass Risk Level,Logistic Regression,course_clean_Taasl,0.2423603127995654,absolute_coefficient,course_clean,0.017048603964107876
+Multiclass Risk Level,Logistic Regression,course_clean_Usuluddin,0.221617538988084,absolute_coefficient,course_clean,0.015589473416931718
+Multiclass Risk Level,Logistic Regression,year_study_Year 1,0.25062277407094674,absolute_coefficient,year_study,0.0176298188848076
+Multiclass Risk Level,Logistic Regression,year_study_Year 2,0.32879261046593555,absolute_coefficient,year_study,0.023128601120409913
+Multiclass Risk Level,Logistic Regression,year_study_Year 3,0.23062329324796474,absolute_coefficient,year_study,0.016222974570653036
+Multiclass Risk Level,Logistic Regression,year_study_Year 4,0.4877617954884312,absolute_coefficient,year_study,0.03431113610990254
+Multiclass Risk Level,Logistic Regression,cgpa_0 - 1.99,0.3352716063693979,absolute_coefficient,cgpa,0.023584359878794404
+Multiclass Risk Level,Logistic Regression,cgpa_2.00 - 2.49,0.1797739006659023,absolute_coefficient,cgpa,0.012646022775480315
+Multiclass Risk Level,Logistic Regression,cgpa_2.50 - 2.99,0.41231544491838595,absolute_coefficient,cgpa,0.029003934874897976
+Multiclass Risk Level,Logistic Regression,cgpa_3.00 - 3.49,0.17729725365070678,absolute_coefficient,cgpa,0.012471805414423031
+Multiclass Risk Level,Logistic Regression,cgpa_3.50 - 4.00,0.25396028171633594,absolute_coefficient,cgpa,0.017864592661983238
+Multiclass Risk Level,Logistic Regression,marital_status_0,0.6244641141483944,absolute_coefficient,marital_status,0.04392732972216448
+Multiclass Risk Level,Logistic Regression,marital_status_1,0.6258153232042515,absolute_coefficient,marital_status,0.044022379228413774
+Multiclass Risk Level,Random Forest Balanced,age,0.09173527317128578,tree_feature_importance,age,0.09173527317128578
+Multiclass Risk Level,Random Forest Balanced,gender_Female,0.021266894001982402,tree_feature_importance,gender,0.021266894001982402
+Multiclass Risk Level,Random Forest Balanced,gender_Male,0.024962207593423626,tree_feature_importance,gender,0.024962207593423626
+Multiclass Risk Level,Random Forest Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Benl,0.0015776465460439427,tree_feature_importance,course_clean,0.0015776465460439427
+Multiclass Risk Level,Random Forest Balanced,course_clean_Biomedical Science,0.033568402489544305,tree_feature_importance,course_clean,0.033568402489544305
+Multiclass Risk Level,Random Forest Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Computer Science,0.02101395147121044,tree_feature_importance,course_clean,0.02101395147121044
+Multiclass Risk Level,Random Forest Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Engineering,0.014775589663113419,tree_feature_importance,course_clean,0.014775589663113419
+Multiclass Risk Level,Random Forest Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Information Technology,0.04095770589890683,tree_feature_importance,course_clean,0.04095770589890683
+Multiclass Risk Level,Random Forest Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Islamic Education,0.04226004269937151,tree_feature_importance,course_clean,0.04226004269937151
+Multiclass Risk Level,Random Forest Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Koe,0.014910417666564157,tree_feature_importance,course_clean,0.014910417666564157
+Multiclass Risk Level,Random Forest Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Law,0.004032909121839533,tree_feature_importance,course_clean,0.004032909121839533
+Multiclass Risk Level,Random Forest Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Psychology,0.013608049335823122,tree_feature_importance,course_clean,0.013608049335823122
+Multiclass Risk Level,Random Forest Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Random Forest Balanced,year_study_Year 1,0.04877043874372545,tree_feature_importance,year_study,0.04877043874372545
+Multiclass Risk Level,Random Forest Balanced,year_study_Year 2,0.032802671299816226,tree_feature_importance,year_study,0.032802671299816226
+Multiclass Risk Level,Random Forest Balanced,year_study_Year 3,0.034734144158906015,tree_feature_importance,year_study,0.034734144158906015
+Multiclass Risk Level,Random Forest Balanced,year_study_Year 4,0.08198978906199504,tree_feature_importance,year_study,0.08198978906199504
+Multiclass Risk Level,Random Forest Balanced,cgpa_0 - 1.99,0.011001710649493688,tree_feature_importance,cgpa,0.011001710649493688
+Multiclass Risk Level,Random Forest Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Random Forest Balanced,cgpa_2.50 - 2.99,0.01522629584908978,tree_feature_importance,cgpa,0.01522629584908978
+Multiclass Risk Level,Random Forest Balanced,cgpa_3.00 - 3.49,0.03786378356425292,tree_feature_importance,cgpa,0.03786378356425292
+Multiclass Risk Level,Random Forest Balanced,cgpa_3.50 - 4.00,0.0230105948711489,tree_feature_importance,cgpa,0.0230105948711489
+Multiclass Risk Level,Random Forest Balanced,marital_status_0,0.19491640768277815,tree_feature_importance,marital_status,0.19491640768277815
+Multiclass Risk Level,Random Forest Balanced,marital_status_1,0.19501507445968477,tree_feature_importance,marital_status,0.19501507445968477
+Multiclass Risk Level,Logistic Regression Balanced,age,0.16037486445870394,absolute_coefficient,age,0.011328427725260949
+Multiclass Risk Level,Logistic Regression Balanced,gender_Female,0.07856040173514799,absolute_coefficient,gender,0.005549285021240048
+Multiclass Risk Level,Logistic Regression Balanced,gender_Male,0.07990166962362821,absolute_coefficient,gender,0.005644028398802024
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Accounting,0.2779927461456779,absolute_coefficient,course_clean,0.01963662288032076
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Ala,0.06050316593355057,absolute_coefficient,course_clean,0.004273772855497489
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Banking Studies,0.28449869635815556,absolute_coefficient,course_clean,0.02009618483857998
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Benl,0.1707666389294523,absolute_coefficient,course_clean,0.01206247334036666
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Biomedical Science,0.5807649634948056,absolute_coefficient,course_clean,0.041023597659899075
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Biotechnology,0.18473126238635365,absolute_coefficient,course_clean,0.013048894922551232
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Business Administration,0.283631330493513,absolute_coefficient,course_clean,0.02003491656226919
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Communication,0.23574099035862525,absolute_coefficient,course_clean,0.0166520781181816
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Computer Science,0.11660310536344087,absolute_coefficient,course_clean,0.008236514220037659
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Cts,0.3658349087981421,absolute_coefficient,course_clean,0.02584154529255635
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Diploma Nursing,0.29581267082005414,absolute_coefficient,course_clean,0.020895372057909287
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Diploma Tesl,0.22723644045797484,absolute_coefficient,course_clean,0.016051340719521467
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Econs,0.4351657800437061,absolute_coefficient,course_clean,0.030738882332781783
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Engine,0.32208374878979124,absolute_coefficient,course_clean,0.022751086848686215
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Engineering,0.183448462559626,absolute_coefficient,course_clean,0.012958281563830023
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Enm,0.2384598947552211,absolute_coefficient,course_clean,0.016844133849936636
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Fiqh,0.30546868082772954,absolute_coefficient,course_clean,0.021577445348231625
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Fiqh Fatwa,0.3036035754569651,absolute_coefficient,course_clean,0.021445699569589725
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Human Resources,0.24705555003669868,absolute_coefficient,course_clean,0.017451306675529576
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Human Sciences,0.2284469617592152,absolute_coefficient,course_clean,0.01613684852722734
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Information Technology,0.5707138132714351,absolute_coefficient,course_clean,0.04031361278012689
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Irkhs,0.2968045145876746,absolute_coefficient,course_clean,0.020965433101914923
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Islamic Education,0.2799439855624883,absolute_coefficient,course_clean,0.019774452924839415
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Kenms,0.2306925236246183,absolute_coefficient,course_clean,0.016295468678712312
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Kirkhs,0.4598877904946829,absolute_coefficient,course_clean,0.03248517536668269
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Koe,0.1833253597664104,absolute_coefficient,course_clean,0.012949585930007184
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Kop,0.39347287343579396,absolute_coefficient,course_clean,0.027793813099158786
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Law,0.27752939614501754,absolute_coefficient,course_clean,0.019603893144200968
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Malcom,0.3658349087981421,absolute_coefficient,course_clean,0.02584154529255635
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Marine Science,0.14440676542041364,absolute_coefficient,course_clean,0.010200486283342162
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Mathematics,0.1061609724395474,absolute_coefficient,course_clean,0.007498911425951713
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Mhsc,0.10524912961338535,absolute_coefficient,course_clean,0.007434501422627068
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Nursing,0.11904724378432076,absolute_coefficient,course_clean,0.008409161258867119
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Psychology,0.3635828148849267,absolute_coefficient,course_clean,0.025682463735652337
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Radiography,0.21587049565782965,absolute_coefficient,course_clean,0.015248482462198325
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Taasl,0.2359744620721468,absolute_coefficient,course_clean,0.01666856990098964
+Multiclass Risk Level,Logistic Regression Balanced,course_clean_Usuluddin,0.2170281008022014,absolute_coefficient,course_clean,0.015330252421952725
+Multiclass Risk Level,Logistic Regression Balanced,year_study_Year 1,0.2593806818466358,absolute_coefficient,year_study,0.018321919195667606
+Multiclass Risk Level,Logistic Regression Balanced,year_study_Year 2,0.3279390334852131,absolute_coefficient,year_study,0.023164687631494627
+Multiclass Risk Level,Logistic Regression Balanced,year_study_Year 3,0.23759526524185293,absolute_coefficient,year_study,0.016783058861755795
+Multiclass Risk Level,Logistic Regression Balanced,year_study_Year 4,0.48681372924443217,absolute_coefficient,year_study,0.03438714767444343
+Multiclass Risk Level,Logistic Regression Balanced,cgpa_0 - 1.99,0.3364480744797442,absolute_coefficient,cgpa,0.023765742268349203
+Multiclass Risk Level,Logistic Regression Balanced,cgpa_2.00 - 2.49,0.19300577861140256,absolute_coefficient,cgpa,0.013633383391697234
+Multiclass Risk Level,Logistic Regression Balanced,cgpa_2.50 - 2.99,0.4126033431046505,absolute_coefficient,cgpa,0.02914513547580056
+Multiclass Risk Level,Logistic Regression Balanced,cgpa_3.00 - 3.49,0.16482324402130755,absolute_coefficient,cgpa,0.011642648700845679
+Multiclass Risk Level,Logistic Regression Balanced,cgpa_3.50 - 4.00,0.25074978260097114,absolute_coefficient,cgpa,0.017712256835929818
+Multiclass Risk Level,Logistic Regression Balanced,marital_status_0,0.6272347687219403,absolute_coefficient,marital_status,0.04430609352793519
+Multiclass Risk Level,Logistic Regression Balanced,marital_status_1,0.6280457347287701,absolute_coefficient,marital_status,0.04436337787749348
+Multiclass Risk Level,Gradient Boosting,age,0.06892221911334963,tree_feature_importance,age,0.06892221911334963
+Multiclass Risk Level,Gradient Boosting,gender_Female,0.005897031731675037,tree_feature_importance,gender,0.005897031731675037
+Multiclass Risk Level,Gradient Boosting,gender_Male,0.005893590410891236,tree_feature_importance,gender,0.005893590410891236
+Multiclass Risk Level,Gradient Boosting,course_clean_Accounting,0.012910121079609605,tree_feature_importance,course_clean,0.012910121079609605
+Multiclass Risk Level,Gradient Boosting,course_clean_Ala,0.00020305138835141433,tree_feature_importance,course_clean,0.00020305138835141433
+Multiclass Risk Level,Gradient Boosting,course_clean_Banking Studies,0.013832438200349375,tree_feature_importance,course_clean,0.013832438200349375
+Multiclass Risk Level,Gradient Boosting,course_clean_Benl,0.012552199120924881,tree_feature_importance,course_clean,0.012552199120924881
+Multiclass Risk Level,Gradient Boosting,course_clean_Biomedical Science,0.05481521677226197,tree_feature_importance,course_clean,0.05481521677226197
+Multiclass Risk Level,Gradient Boosting,course_clean_Biotechnology,0.013627104829708083,tree_feature_importance,course_clean,0.013627104829708083
+Multiclass Risk Level,Gradient Boosting,course_clean_Business Administration,0.01476082631069782,tree_feature_importance,course_clean,0.01476082631069782
+Multiclass Risk Level,Gradient Boosting,course_clean_Communication,0.002015805615810133,tree_feature_importance,course_clean,0.002015805615810133
+Multiclass Risk Level,Gradient Boosting,course_clean_Computer Science,2.1670111264431378e-05,tree_feature_importance,course_clean,2.1670111264431378e-05
+Multiclass Risk Level,Gradient Boosting,course_clean_Cts,0.015906797334919284,tree_feature_importance,course_clean,0.015906797334919284
+Multiclass Risk Level,Gradient Boosting,course_clean_Diploma Nursing,0.013595841138010982,tree_feature_importance,course_clean,0.013595841138010982
+Multiclass Risk Level,Gradient Boosting,course_clean_Diploma Tesl,0.010389643686897902,tree_feature_importance,course_clean,0.010389643686897902
+Multiclass Risk Level,Gradient Boosting,course_clean_Econs,0.023911030280392764,tree_feature_importance,course_clean,0.023911030280392764
+Multiclass Risk Level,Gradient Boosting,course_clean_Engine,0.012740705873682907,tree_feature_importance,course_clean,0.012740705873682907
+Multiclass Risk Level,Gradient Boosting,course_clean_Engineering,0.020999476253149987,tree_feature_importance,course_clean,0.020999476253149987
+Multiclass Risk Level,Gradient Boosting,course_clean_Enm,0.001955988820817601,tree_feature_importance,course_clean,0.001955988820817601
+Multiclass Risk Level,Gradient Boosting,course_clean_Fiqh,0.009615143990772,tree_feature_importance,course_clean,0.009615143990772
+Multiclass Risk Level,Gradient Boosting,course_clean_Fiqh Fatwa,0.015215072839235287,tree_feature_importance,course_clean,0.015215072839235287
+Multiclass Risk Level,Gradient Boosting,course_clean_Human Resources,0.013178288508927116,tree_feature_importance,course_clean,0.013178288508927116
+Multiclass Risk Level,Gradient Boosting,course_clean_Human Sciences,0.009844500017376596,tree_feature_importance,course_clean,0.009844500017376596
+Multiclass Risk Level,Gradient Boosting,course_clean_Information Technology,0.0531636693572322,tree_feature_importance,course_clean,0.0531636693572322
+Multiclass Risk Level,Gradient Boosting,course_clean_Irkhs,0.02128586699954628,tree_feature_importance,course_clean,0.02128586699954628
+Multiclass Risk Level,Gradient Boosting,course_clean_Islamic Education,0.009312038828811197,tree_feature_importance,course_clean,0.009312038828811197
+Multiclass Risk Level,Gradient Boosting,course_clean_Kenms,0.009505947785858695,tree_feature_importance,course_clean,0.009505947785858695
+Multiclass Risk Level,Gradient Boosting,course_clean_Kirkhs,0.027250266977197124,tree_feature_importance,course_clean,0.027250266977197124
+Multiclass Risk Level,Gradient Boosting,course_clean_Koe,0.03026612409885578,tree_feature_importance,course_clean,0.03026612409885578
+Multiclass Risk Level,Gradient Boosting,course_clean_Kop,0.02722982035408395,tree_feature_importance,course_clean,0.02722982035408395
+Multiclass Risk Level,Gradient Boosting,course_clean_Law,0.03149761321904571,tree_feature_importance,course_clean,0.03149761321904571
+Multiclass Risk Level,Gradient Boosting,course_clean_Malcom,0.015855218980564783,tree_feature_importance,course_clean,0.015855218980564783
+Multiclass Risk Level,Gradient Boosting,course_clean_Marine Science,0.000637419221214433,tree_feature_importance,course_clean,0.000637419221214433
+Multiclass Risk Level,Gradient Boosting,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Gradient Boosting,course_clean_Mhsc,0.0005785854977219437,tree_feature_importance,course_clean,0.0005785854977219437
+Multiclass Risk Level,Gradient Boosting,course_clean_Nursing,0.0007970582779070995,tree_feature_importance,course_clean,0.0007970582779070995
+Multiclass Risk Level,Gradient Boosting,course_clean_Psychology,0.024304705051566743,tree_feature_importance,course_clean,0.024304705051566743
+Multiclass Risk Level,Gradient Boosting,course_clean_Radiography,0.009858585677942174,tree_feature_importance,course_clean,0.009858585677942174
+Multiclass Risk Level,Gradient Boosting,course_clean_Taasl,0.0075779783218649375,tree_feature_importance,course_clean,0.0075779783218649375
+Multiclass Risk Level,Gradient Boosting,course_clean_Usuluddin,0.009056144569630508,tree_feature_importance,course_clean,0.009056144569630508
+Multiclass Risk Level,Gradient Boosting,year_study_Year 1,0.02950931403918287,tree_feature_importance,year_study,0.02950931403918287
+Multiclass Risk Level,Gradient Boosting,year_study_Year 2,0.012694066580150999,tree_feature_importance,year_study,0.012694066580150999
+Multiclass Risk Level,Gradient Boosting,year_study_Year 3,0.008720927258565903,tree_feature_importance,year_study,0.008720927258565903
+Multiclass Risk Level,Gradient Boosting,year_study_Year 4,0.05204390706109549,tree_feature_importance,year_study,0.05204390706109549
+Multiclass Risk Level,Gradient Boosting,cgpa_0 - 1.99,0.027175385546493725,tree_feature_importance,cgpa,0.027175385546493725
+Multiclass Risk Level,Gradient Boosting,cgpa_2.00 - 2.49,0.008833892809055994,tree_feature_importance,cgpa,0.008833892809055994
+Multiclass Risk Level,Gradient Boosting,cgpa_2.50 - 2.99,0.018993802221539045,tree_feature_importance,cgpa,0.018993802221539045
+Multiclass Risk Level,Gradient Boosting,cgpa_3.00 - 3.49,0.010699392752951384,tree_feature_importance,cgpa,0.010699392752951384
+Multiclass Risk Level,Gradient Boosting,cgpa_3.50 - 4.00,0.007278333967273236,tree_feature_importance,cgpa,0.007278333967273236
+Multiclass Risk Level,Gradient Boosting,marital_status_0,0.1164076283361211,tree_feature_importance,marital_status,0.1164076283361211
+Multiclass Risk Level,Gradient Boosting,marital_status_1,0.07666254277945084,tree_feature_importance,marital_status,0.07666254277945084
+Multiclass Risk Level,Decision Tree Balanced,age,0.019270585417683055,tree_feature_importance,age,0.019270585417683058
+Multiclass Risk Level,Decision Tree Balanced,gender_Female,0.0,tree_feature_importance,gender,0.0
+Multiclass Risk Level,Decision Tree Balanced,gender_Male,0.0,tree_feature_importance,gender,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Accounting,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Ala,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Banking Studies,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Benl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Biomedical Science,0.15021838505916513,tree_feature_importance,course_clean,0.15021838505916515
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Biotechnology,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Business Administration,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Communication,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Computer Science,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Cts,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Diploma Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Diploma Tesl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Econs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Engine,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Engineering,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Enm,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Fiqh,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Fiqh Fatwa,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Human Resources,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Human Sciences,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Information Technology,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Irkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Islamic Education,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Kenms,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Kirkhs,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Koe,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Kop,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Law,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Malcom,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Marine Science,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Mathematics,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Mhsc,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Nursing,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Psychology,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Radiography,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Taasl,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,course_clean_Usuluddin,0.0,tree_feature_importance,course_clean,0.0
+Multiclass Risk Level,Decision Tree Balanced,year_study_Year 1,0.13849087903588958,tree_feature_importance,year_study,0.1384908790358896
+Multiclass Risk Level,Decision Tree Balanced,year_study_Year 2,0.0,tree_feature_importance,year_study,0.0
+Multiclass Risk Level,Decision Tree Balanced,year_study_Year 3,0.023245595218543972,tree_feature_importance,year_study,0.023245595218543975
+Multiclass Risk Level,Decision Tree Balanced,year_study_Year 4,0.13511627907357932,tree_feature_importance,year_study,0.13511627907357934
+Multiclass Risk Level,Decision Tree Balanced,cgpa_0 - 1.99,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Decision Tree Balanced,cgpa_2.00 - 2.49,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Decision Tree Balanced,cgpa_2.50 - 2.99,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Decision Tree Balanced,cgpa_3.00 - 3.49,0.04497986690894529,tree_feature_importance,cgpa,0.044979866908945294
+Multiclass Risk Level,Decision Tree Balanced,cgpa_3.50 - 4.00,0.0,tree_feature_importance,cgpa,0.0
+Multiclass Risk Level,Decision Tree Balanced,marital_status_0,0.0,tree_feature_importance,marital_status,0.0
+Multiclass Risk Level,Decision Tree Balanced,marital_status_1,0.4886784092861935,tree_feature_importance,marital_status,0.4886784092861936
