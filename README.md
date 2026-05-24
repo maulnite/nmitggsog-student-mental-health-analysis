@@ -1,6 +1,8 @@
 # MindTrack UB — Silent Struggle Student Mental Health Analysis
 
-**MindTrack UB** adalah prototype **decision support system** berbasis data dan machine learning untuk membantu kampus membaca pola risiko kesehatan mental mahasiswa secara lebih awal. Project ini berfokus pada konsep **Silent Struggle**, yaitu kondisi ketika mahasiswa sudah menunjukkan indikator risiko mental health, tetapi belum mencari bantuan atau dukungan spesialis.
+**MindTrack UB** adalah prototype **decision support system** berbasis data dan machine learning untuk membantu kampus membaca pola risiko kesehatan mental mahasiswa secara lebih awal.
+
+Project ini berfokus pada konsep **Silent Struggle**, yaitu kondisi ketika mahasiswa sudah menunjukkan indikator risiko mental health, tetapi belum mencari bantuan atau dukungan spesialis.
 
 Project ini dikembangkan untuk kebutuhan **AI & Data Innovation Challenge** dengan pendekatan:
 
@@ -10,6 +12,7 @@ Project ini dikembangkan untuk kebutuhan **AI & Data Innovation Challenge** deng
 - priority segmentation,
 - machine learning screening,
 - feature importance,
+- permutation importance,
 - SHAP interpretability,
 - dan dashboard interaktif berbasis Streamlit.
 
@@ -21,7 +24,9 @@ Project ini dikembangkan untuk kebutuhan **AI & Data Innovation Challenge** deng
 
 Kesehatan mental mahasiswa menjadi isu penting dalam lingkungan kampus yang besar dan dinamis. Mahasiswa dapat mengalami tekanan akademik, tuntutan prestasi, adaptasi sosial, masalah ekonomi, burnout, hingga hambatan untuk mencari bantuan.
 
-Dalam banyak kasus, mahasiswa yang memiliki indikasi masalah mental health tidak selalu langsung mencari bantuan. Sebagian dari mereka memilih diam, menunda, atau tidak mengetahui layanan yang dapat diakses. Kondisi inilah yang dalam project ini disebut sebagai:
+Dalam banyak kasus, mahasiswa yang memiliki indikasi masalah mental health tidak selalu langsung mencari bantuan. Sebagian dari mereka memilih diam, menunda, atau tidak mengetahui layanan yang dapat diakses.
+
+Kondisi inilah yang dalam project ini disebut sebagai:
 
 > **Silent Struggle** — mahasiswa memiliki indikator risiko mental health, tetapi belum mencari bantuan spesialis.
 
@@ -308,23 +313,26 @@ Model valid terbaik berdasarkan **F1 Macro**:
 |---|---|---:|---:|---:|---:|
 | Logistic Regression Balanced + RandomOverSampler | Binary At Risk with Oversampling | 0.662 | 0.635 | 0.633 | 0.650 |
 
-Model ini dipilih karena F1 Macro lebih cocok untuk membaca performa antar kelas pada dataset kecil dan tidak seimbang.
+Model ini dipilih karena **F1 Macro** lebih cocok untuk membaca performa antar kelas pada dataset kecil dan tidak seimbang.
+
+Selain binary model, notebook juga menyertakan perbandingan tambahan untuk beberapa target lain seperti **support status** dan **priority segment** sebagai eksplorasi model pendukung.
 
 ---
 
 ## 9. Interpretability
 
-Project ini menyertakan beberapa pendekatan interpretability:
+Project ini menyertakan beberapa pendekatan interpretability agar hasil model tidak hanya berupa prediksi, tetapi juga dapat dijelaskan secara lebih transparan.
 
 ### 9.1 Feature Importance
 
 Feature importance digunakan untuk melihat fitur yang paling banyak membantu model dalam proses prediksi.
 
-Output disimpan pada:
+Output terkait:
 
 ```text
 prediction_pipeline_outputs/tables/valid_feature_importance_summary.csv
 prediction_pipeline_outputs/tables/overall_valid_feature_importance.csv
+prediction_pipeline_outputs/tables/feature_importance_support_status.csv
 ```
 
 ---
@@ -333,7 +341,7 @@ prediction_pipeline_outputs/tables/overall_valid_feature_importance.csv
 
 Permutation importance digunakan untuk melihat penurunan performa model ketika satu fitur diacak.
 
-Output disimpan pada:
+Output terkait:
 
 ```text
 prediction_pipeline_outputs/tables/best_binary_permutation_importance.csv
@@ -366,7 +374,7 @@ Jika library SHAP belum tersedia, jalankan:
 uv pip install shap
 ```
 
-atau tambahkan `shap` pada `requirements.txt`.
+atau pastikan `shap` sudah ada pada `requirements.txt`.
 
 ---
 
@@ -518,29 +526,49 @@ NMITGGSOG-STUDENT-MENTAL-HEALTH-ANALYSIS/
 ├── data/
 │   └── Student Mental health.csv
 │
-├── docs/
-│   ├── solution_summary.md
-│   └── worksheet_final.pdf
-│
 ├── notebooks/
-│   └── Silent_Struggle_Merged_Clean_Analysis_Modeling.ipynb
+│   └── MindTrackUB_Silent_Struggle_AI_Data_Pipeline.ipynb
 │
 ├── prediction_pipeline_outputs/
 │   ├── predictions/
+│   │   ├── student_mental_health_labeled.csv
+│   │   └── student_mental_health_predictions.csv
+│   │
 │   ├── tables/
-│   │   ├── model_improvement_experiments.csv
-│   │   ├── leakage_demo_results.csv
-│   │   ├── valid_feature_importance_summary.csv
-│   │   ├── overall_valid_feature_importance.csv
+│   │   ├── age_summary.csv
+│   │   ├── association_summary.csv
 │   │   ├── best_binary_permutation_importance.csv
+│   │   ├── cgpa_summary.csv
+│   │   ├── combination_summary.csv
+│   │   ├── course_issue_summary.csv
+│   │   ├── feature_importance_support_status.csv
+│   │   ├── gender_summary.csv
+│   │   ├── indicator_summary.csv
+│   │   ├── issue_count_summary.csv
+│   │   ├── leakage_demo_results.csv
 │   │   ├── leakage_feature_importance_summary.csv
+│   │   ├── model_comparison_all_targets.csv
+│   │   ├── model_comparison_priority_segment.csv
+│   │   ├── model_comparison_support_status.csv
+│   │   ├── model_improvement_experiments.csv
 │   │   ├── overall_leakage_feature_importance.csv
+│   │   ├── overall_valid_feature_importance.csv
+│   │   ├── priority_segment_distribution.csv
+│   │   ├── priority_summary.csv
+│   │   ├── shap_base_importance_best_binary.csv
 │   │   ├── shap_encoded_importance_best_binary.csv
-│   │   └── shap_base_importance_best_binary.csv
+│   │   ├── student_mental_health_cleaned.csv
+│   │   ├── support_by_issue_count.csv
+│   │   ├── support_status_distribution.csv
+│   │   ├── support_status_summary.csv
+│   │   ├── valid_feature_importance_summary.csv
+│   │   └── year_summary.csv
 │   │
 │   └── visualizations/
 │       ├── 01_kpi_cards_support_gap.png
+│       ├── 01_label_distribution.png
 │       ├── 02_lollipop_prevalensi_indikator.png
+│       ├── 02_model_comparison_weighted_f1.png
 │       ├── 03_donut_support_gap.png
 │       ├── 04_funnel_silent_struggle.png
 │       ├── 05_priority_segment_mapping.png
@@ -551,17 +579,14 @@ NMITGGSOG-STUDENT-MENTAL-HEALTH-ANALYSIS/
 │       ├── 10_average_leakage_feature_importance.png
 │       ├── 11_shap_base_feature_importance.png
 │       ├── 12_shap_encoded_feature_importance_top15.png
-│       └── 13_shap_summary_plot_best_binary.png
+│       ├── 13_shap_summary_plot_best_binary.png
+│       ├── confusion_matrix_priority_segment.png
+│       ├── confusion_matrix_support_status.png
+│       └── feature_importance_support_status.png
 │
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-```
-
-Folder berikut tidak perlu dipush:
-
-```text
-tekra/
 ```
 
 > Catatan: folder `tekra/` adalah virtual environment lokal dan sudah diabaikan melalui `.gitignore`, sehingga tidak perlu ikut di-push ke repository.
@@ -637,7 +662,7 @@ Jika command `streamlit` tidak terbaca:
 
 ## 13. Requirements
 
-Isi `requirements.txt` yang disarankan:
+Isi `requirements.txt`:
 
 ```text
 streamlit
@@ -675,7 +700,7 @@ Python (tekra)
 Notebook utama:
 
 ```text
-notebooks/Silent_Struggle_Merged_Clean_Analysis_Modeling.ipynb
+notebooks/MindTrackUB_Silent_Struggle_AI_Data_Pipeline.ipynb
 ```
 
 Notebook ini menghasilkan output ke folder:
@@ -698,18 +723,24 @@ Berada pada:
 prediction_pipeline_outputs/tables/
 ```
 
-Contoh output:
+Output tabel berisi ringkasan EDA, support gap, priority segment, hasil eksperimen model, leakage demo, feature importance, permutation importance, dan SHAP.
+
+Contoh file penting:
 
 ```text
+student_mental_health_cleaned.csv
+indicator_summary.csv
+support_status_summary.csv
+priority_summary.csv
 model_improvement_experiments.csv
-leakage_demo_results.csv
+model_comparison_all_targets.csv
+model_comparison_priority_segment.csv
+model_comparison_support_status.csv
 valid_feature_importance_summary.csv
 overall_valid_feature_importance.csv
 best_binary_permutation_importance.csv
-leakage_feature_importance_summary.csv
-overall_leakage_feature_importance.csv
-shap_encoded_importance_best_binary.csv
 shap_base_importance_best_binary.csv
+shap_encoded_importance_best_binary.csv
 ```
 
 ---
@@ -722,7 +753,9 @@ Berada pada:
 prediction_pipeline_outputs/visualizations/
 ```
 
-Contoh output:
+Visualisasi mencakup KPI support gap, prevalensi indikator, donut support gap, funnel silent struggle, priority segment mapping, heatmap, feature importance, SHAP plot, dan confusion matrix.
+
+Contoh file penting:
 
 ```text
 01_kpi_cards_support_gap.png
@@ -730,14 +763,13 @@ Contoh output:
 03_donut_support_gap.png
 04_funnel_silent_struggle.png
 05_priority_segment_mapping.png
-06_heatmap_cooccurrence_indikator.png
-07_heatmap_tahun_cgpa_any_issue.png
 08_average_valid_feature_importance.png
 09_best_binary_permutation_importance.png
-10_average_leakage_feature_importance.png
 11_shap_base_feature_importance.png
 12_shap_encoded_feature_importance_top15.png
 13_shap_summary_plot_best_binary.png
+confusion_matrix_priority_segment.png
+confusion_matrix_support_status.png
 ```
 
 ---
@@ -750,7 +782,12 @@ Berada pada:
 prediction_pipeline_outputs/predictions/
 ```
 
-Folder ini digunakan untuk menyimpan output prediksi atau pipeline tambahan jika diperlukan.
+File prediksi/labeled data:
+
+```text
+student_mental_health_labeled.csv
+student_mental_health_predictions.csv
+```
 
 ---
 
@@ -773,6 +810,8 @@ panic_attack
 ```
 
 Jika tiga fitur tersebut dimasukkan ke model, performa akan terlihat sangat tinggi, tetapi hasil tersebut tidak valid.
+
+Bagian leakage demo pada notebook hanya digunakan sebagai pembanding untuk menunjukkan mengapa penggunaan fitur pembentuk target tidak boleh dianggap sebagai evaluasi model yang sah.
 
 ---
 
@@ -834,7 +873,7 @@ MindTrack UB menunjukkan bahwa data dan machine learning dapat digunakan sebagai
 
 Hasil analisis menunjukkan adanya **Support Gap** yang besar: banyak mahasiswa memiliki indikator risiko, tetapi belum mencari bantuan spesialis. Fenomena ini dirangkum sebagai **Silent Struggle**.
 
-Model Logistic Regression Balanced + RandomOverSampler digunakan sebagai proof of concept untuk screening awal **No Risk vs At Risk**, sedangkan dashboard membantu menyajikan insight, pola risiko, support gap, priority segment, dan simulasi rekomendasi tindak lanjut.
+Model **Logistic Regression Balanced + RandomOverSampler** digunakan sebagai proof of concept untuk screening awal **No Risk vs At Risk**, sedangkan dashboard membantu menyajikan insight, pola risiko, support gap, priority segment, dan simulasi rekomendasi tindak lanjut.
 
 ---
 
